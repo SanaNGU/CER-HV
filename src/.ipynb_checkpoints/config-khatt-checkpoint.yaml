@@ -1,0 +1,40 @@
+#resume: './saved_models/khatt_saved_models/htrnet_800.pt'
+resume:
+save: './temp.pt'
+
+device: 'cuda:4'
+
+# datasets
+data:
+  path: './data/khatt_prepared_cropped_final'  #_corrected_labels_updated_mising_trans-Copy1   # './data/khatt_prepared_cropped_final'  #./data/khatt_prepared_trusted
+
+# preprocessing
+preproc:
+  image_height: 150
+  image_width: 2073
+
+# architecture
+arch: 
+  #cnn_cfg: [[2, 64], 'M', [3, 128], 'M', [2, 256]]
+  cnn_cfg: [[2, 64], 'M', [4, 128], 'M', [4, 256]]
+  head_type: 'both'  # select from 'both' (rnn + cnn shortcut), 'rnn', 'cnn'
+  rnn_type: 'lstm'
+  rnn_layers: 3
+  rnn_hidden_size: 256
+  flattening: 'maxpool'  #'concat'   'maxpool'
+  stn: False
+
+# training
+train:
+  lr: 5e-4
+  num_epochs: 800
+  batch_size: 16
+  scheduler: 'mstep'  # right now only 'mstep' is supported, i.e. multistep
+  save_every_k_epochs: 25
+  num_workers: 8
+
+# evaluation
+eval:
+  batch_size: 32
+  num_workers: 8
+  wer_mode: 'tokenizer' # select from 'tokenizer', 'space'

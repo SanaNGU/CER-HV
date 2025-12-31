@@ -1,0 +1,32 @@
+ImageID,Label,Notes,CER,GroundTruth,Prediction,ImagePath,Timestamp,Reviewer
+PHTI-JB-F-0011-9,Wrong transcription,,1.054054054054054,هغه علم چې د پخوانيو رواجونو، تصوراتو,ووايا تو، عقيدو، موحظماتو او مسلازاتو جوتونه کوي فوک,../data/phti_valid_prepared/train/PHTI-JB-F-0011-9.png,2025-12-25T15:12:52,Sana
+PHTI-DM-F-0004-3,Orientation error,,1.0,نسب زما سره يو دے چې تۀ  د هغوي غندنه  کوې،نو,پ,../data/phti_valid_prepared/train/PHTI-DM-F-0004-3.png,2025-12-25T15:12:58,Sana
+PHTI-AW-F-0188-4,Orientation error,,1.0,ارمان,دي,../data/phti_valid_prepared/train/PHTI-AW-F-0188-4.png,2025-12-25T15:13:10,Sana
+PHTI-SP-M-0092-16,Wrong transcription,,1.0,ستا مستې مستې ترانې ليکم,د سيند، پنجاب، بلوچستانه زار شم,../data/phti_valid_prepared/train/PHTI-SP-M-0092-16.png,2025-12-25T15:13:17,Sana
+PHTI-HN-M-0003-1,Wrong transcription,,0.9629629629629628,بندوبست د كائنات شي په خبرو,د,../data/phti_valid_prepared/train/PHTI-HN-M-0003-1.png,2025-12-25T15:13:34,Sana
+PHTI-DM-F-0007-1,Orientation error,,0.95,نعت ابو طالب وئيلے دے.د خوږ نبی په تعريف,د د,../data/phti_valid_prepared/train/PHTI-DM-F-0007-1.png,2025-12-25T15:13:59,Sana
+PHTI-DM-F-0004-1,Orientation error,,0.8913043478260869,عرض وکړو.اے د الله رسوله دا زما کار دے.تاسو به,د   د,../data/phti_valid_prepared/train/PHTI-DM-F-0004-1.png,2025-12-25T15:14:05,Sana
+PHTI-AF-F-0033-16,Wrong transcription,,0.8904109589041096,لکه ما چی وژنی . ميړه یی ور ته وويل تا چه هر څوک ووينی وايی چهوژلی می وای,وژلی مې وي:,../data/phti_valid_prepared/train/PHTI-AF-F-0033-16.png,2025-12-25T15:14:13,Sana
+PHTI-DM-F-0001-12,Orientation error,,0.8666666666666667,د موندلو درکونه,د ي,../data/phti_valid_prepared/train/PHTI-DM-F-0001-12.png,2025-12-25T15:14:21,Sana
+PHTI-DM-F-0002-1,Orientation error,,0.8636363636363636,﻿او اهميت به ئې شعرونه وئيل.د خپلو جذباتو او,د   دې ده,../data/phti_valid_prepared/train/PHTI-DM-F-0002-1.png,2025-12-25T15:14:26,Sana
+PHTI-DM-F-0004-4,Orientation error,,0.8636363636363636,"ووم.چې سرورِ کونېن اوفرمائيل ""کوم خلق چې زما",د      ل,../data/phti_valid_prepared/train/PHTI-DM-F-0004-4.png,2025-12-25T15:14:31,Sana
+PHTI-KT-M-0476-11,Wrong transcription,,0.8615384615384616,پسنده شاعرانو د فکري او فني تجربو په سبب پکښې نور هم وسعت راغلو .,سنډه داخې ده,../data/phti_valid_prepared/train/PHTI-KT-M-0476-11.png,2025-12-25T15:14:41,Sana
+PHTI-DM-F-0005-3,Orientation error,,0.851063829787234,فرش تشريف فرما شو.او د هغوي شعرونه به ئې اورېدل,د ه   د  ک,../data/phti_valid_prepared/train/PHTI-DM-F-0005-3.png,2025-12-25T15:14:51,Sana
+PHTI-AW-F-0181-10,Orientation error,,0.85,په مر مرينو لېچو شنۀ او سرۀ بنګړي مات شو,د  ه که   ه,../data/phti_valid_prepared/train/PHTI-AW-F-0181-10.png,2025-12-25T15:14:56,Sana
+PHTI-DM-F-0001-6,Orientation error,,0.85,چې د روحاني تطهير يوه جدا او ځانګړې لاره,د   ک  د,../data/phti_valid_prepared/train/PHTI-DM-F-0001-6.png,2025-12-25T15:15:03,Sana
+PHTI-DM-F-0007-2,Orientation error,,0.8478260869565217,خوږ نبی د ورقه بنِ نوفل ملاقات له لاړو.نو ورقه,د     ده,../data/phti_valid_prepared/train/PHTI-DM-F-0007-2.png,2025-12-25T15:15:10,Sana
+PHTI-DM-F-0003-2,Orientation error,,0.8421052631578947,دوي کليزه مشاعرې او مقابلې خامخا جوړېد,د  ه ده ا,../data/phti_valid_prepared/train/PHTI-DM-F-0003-2.png,2025-12-25T15:15:13,Sana
+PHTI-SI-F-0246-6,Wrong transcription,,0.8333333333333334,ښتونخوا کښې که څوک لر ځي,پختوانخوا کښې که څوکړلر ځي او ته خو ک برځي,../data/phti_valid_prepared/train/PHTI-SI-F-0246-6.png,2025-12-25T15:15:51,Sana
+PHTI-DM-F-0001-7,Orientation error,,0.825,عزت مآب اصف محمود صېب په  درنۀ او سپېځلې,د د     ي,../data/phti_valid_prepared/train/PHTI-DM-F-0001-7.png,2025-12-25T15:16:04,Sana
+PHTI-AW-F-0176-8,Orientation error,,0.8235294117647058,دا دې شړنګ دے د بنګړو او که جرس دے,د ک    ي,../data/phti_valid_prepared/train/PHTI-AW-F-0176-8.png,2025-12-25T15:16:10,Sana
+PHTI-AW-F-0157-4,Orientation error,,0.8222222222222222,نور مې هيڅ هم نۀ دي پکار خو سرۀ جوړه به راوړې,د      د  ي,../data/phti_valid_prepared/train/PHTI-AW-F-0157-4.png,2025-12-25T15:16:13,Sana
+PHTI-AW-F-0176-9,Orientation error,,0.8214285714285714,قافله مې د ارمان ساتي بېداره,د    ده  ي,../data/phti_valid_prepared/train/PHTI-AW-F-0176-9.png,2025-12-25T15:16:16,Sana
+PHTI-AW-F-0185-10,Wrong transcription,,0.8205128205128205,دۀ په تش لاس د جنګ آغاز وکړو او وئې ګټو,بې صداقته نشو له هره چاره سپوره سپوره,../data/phti_valid_prepared/train/PHTI-AW-F-0185-10.png,2025-12-25T15:16:25,Sana
+PHTI-AW-F-0188-7,Orientation error,,0.8181818181818182,په دې غرونو چې باران ښکاري چاپېره,د      ي,../data/phti_valid_prepared/train/PHTI-AW-F-0188-7.png,2025-12-25T15:16:30,Sana
+PHTI-AW-F-0173-8,Orientation error,,0.8148148148148148,هډو پروا د نام و ننګ نۀ لرې,ده ک ه  ه ي,../data/phti_valid_prepared/train/PHTI-AW-F-0173-8.png,2025-12-25T15:16:34,Sana
+PHTI-AW-F-0184-5,Orientation error,,0.8125,ستا د حُسن اباسين ته چې ور دانګې,د  ې   ي,../data/phti_valid_prepared/train/PHTI-AW-F-0184-5.png,2025-12-25T15:16:37,Sana
+PHTI-ST-M-0030-10,Wrong transcription,,0.8076923076923077,عمل اودرولو دپاره دلته هم دَ سرکاري افسرانو په ذريعه,پخوانی مراعات يافته طبعه په اقدار کښې راويستې شوهـ,../data/phti_valid_prepared/train/PHTI-ST-M-0030-10.png,2025-12-25T15:16:52,Sana
+PHTI-AW-F-0169-9,Orientation error,,0.8055555555555556,عمر له د خپلو ولولو په مينځ کښې وسوم,ده ک پ  کي,../data/phti_valid_prepared/train/PHTI-AW-F-0169-9.png,2025-12-25T15:16:56,Sana
+PHTI-SP-M-0070-12,Wrong transcription,,0.8055555555555556,ته د غازيانو کور ئې،د شهيدانو کور ئې,تۀ زما روح ئې زما تن زما جانان وطنه,../data/phti_valid_prepared/train/PHTI-SP-M-0070-12.png,2025-12-25T15:17:07,Sana
+PHTI-DM-F-0005-2,Orientation error,,0.8043478260869565,"وباره کښې د خوږ نبی  ارشاد دے.""اے ايماندارو په",د کې د د ا,../data/phti_valid_prepared/train/PHTI-DM-F-0005-2.png,2025-12-25T15:17:18,Sana
+PHTI-AW-F-0196-2,Segmentation error,,0.8,په وړو وړو خبرو خوشحاليږي,د   ک ک کې ي,../data/phti_valid_prepared/train/PHTI-AW-F-0196-2.png,2025-12-25T15:17:23,Sana

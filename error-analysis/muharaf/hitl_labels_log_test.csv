@@ -1,0 +1,219 @@
+ImageID,Label,Notes,CER,GroundTruth,Prediction,ImagePath,Timestamp,Reviewer
+test_001007,Segmentation error,,1.1428571428571428,مأمور وضع اليد,وهو وضيع اليده به البيات,../data/muharaf_prepared_resized/test/test_001007.png,2025-12-02T14:51:34,Sana
+test_000951,Segmentation error,,1.0,طبق مسودة باشكاتب,رلد مورى ىاطتم ر لريم,../data/muharaf_prepared_resized/test/test_000951.png,2025-12-02T14:51:46,Sana
+test_000753,Script mismatch (non-Arabic),,1.0,82,26,../data/muharaf_prepared_resized/test/test_000753.png,2025-12-02T14:51:52,Sana
+test_000977,Orientation error,,1.0,١٨٨,٧٧٧,../data/muharaf_prepared_resized/test/test_000977.png,2025-12-02T14:52:31,Sana
+test_000978,Orientation error,,1.0,الصحيفه الاولى,Eu6,../data/muharaf_prepared_resized/test/test_000978.png,2025-12-02T14:52:32,Sana
+test_000248,Script mismatch (non-Arabic),,1.0,2,9,../data/muharaf_prepared_resized/test/test_000248.png,2025-12-02T14:52:38,Sana
+test_001206,Wrong transcription,,1.0,٦,٢,../data/muharaf_prepared_resized/test/test_001206.png,2025-12-02T14:52:56,Sana
+test_001300,Wrong transcription,,1.0,-1890-,:١٨٨,../data/muharaf_prepared_resized/test/test_001300.png,2025-12-02T14:53:18,Sana
+test_000618,Irrelevant / signature,,0.9166666666666666,رئيس الديوان,لدس ياتك ر بو,../data/muharaf_prepared_resized/test/test_000618.png,2025-12-02T14:53:24,Sana
+test_001071,Irrelevant / signature,,0.9090909090909092,نديم عطالله,ا2,../data/muharaf_prepared_resized/test/test_001071.png,2025-12-02T14:53:25,Sana
+test_000543,Segmentation error,,0.9,تدعى حرمة موسَى هدبا,ل القوام  تدى دمه موسفى حعا,../data/muharaf_prepared_resized/test/test_000543.png,2025-12-02T14:53:43,Sana
+test_000863,Wrong transcription,,0.8604651162790697,احلبية اسلام ... مكان .... حتى وصلنا المنزل,احلبيه اسلام حبين وكان سفرنا الساعة ١ من انهار من جلب حتى وصلنا المزل,../data/muharaf_prepared_resized/test/test_000863.png,2025-12-02T14:54:21,Sana
+test_001181,Segmentation error,,0.8571428571428571,فى ١ ت١,ت ت٢),../data/muharaf_prepared_resized/test/test_001181.png,2025-12-02T14:54:33,Sana
+test_000558,Segmentation error,,0.8461538461538461,مسىمد دعاكم اولاد سَيادتكم,ولاسموى عاىم رعبرب,../data/muharaf_prepared_resized/test/test_000558.png,2025-12-02T14:54:40,Sana
+test_000782,Irrelevant / signature,,0.8421052631578947,رئىس ابراهىم الخىاط,ي  ليالحيكم,../data/muharaf_prepared_resized/test/test_000782.png,2025-12-02T14:54:44,Sana
+test_001158,Irrelevant / signature,,0.8333333333333334,يوسف عبدالله مارون,ع  وي,../data/muharaf_prepared_resized/test/test_001158.png,2025-12-02T14:54:57,Sana
+test_000660,Script mismatch (non-Arabic),,0.8333333333333334,319436,2B2463,../data/muharaf_prepared_resized/test/test_000660.png,2025-12-02T14:55:05,Sana
+test_000989,Irrelevant / signature,,0.8333333333333334,الياس الخوري		شيخ قرية كفرصغاب,رس بسال بدلة بركم ب ي الياسم,../data/muharaf_prepared_resized/test/test_000989.png,2025-12-02T14:55:14,Sana
+test_000617,Irrelevant / signature,,0.8214285714285714,الخوري                 مسَجل,خوري طابه,../data/muharaf_prepared_resized/test/test_000617.png,2025-12-02T14:55:17,Sana
+test_000186,Script mismatch (non-Arabic),,0.8181818181818182,Loc. guille,e Ae,../data/muharaf_prepared_resized/test/test_000186.png,2025-12-02T14:55:21,Sana
+test_000667,Script mismatch (non-Arabic),,0.8181818181818182,and ask her,r Boe ai,../data/muharaf_prepared_resized/test/test_000667.png,2025-12-02T14:55:23,Sana
+test_001047,Valid but hard,,0.8,باسيل,أسلع,../data/muharaf_prepared_resized/test/test_001047.png,2025-12-02T14:56:01,Sana
+test_001005,Segmentation error,,0.8,حققه مخمن خليل سرور بطرام,سلدمر ىور حى,../data/muharaf_prepared_resized/test/test_001005.png,2025-12-02T14:56:10,Sana
+test_000971,Orientation error,,0.8,احالة ولدى المذاكره تقرر بالاتفاق طلب البينة من المدعى لاثبات دعواه سَنداً على الفقرة الاخيرة من مادة الـ١٨١٧ من المجلة وابلغ هذا القرار للفريقين,تم تيكم وسيا ابي بن١ يهم   ف ٢ ي ي اجه٤٥ ٠٧٠ ١٥٩ بي يبتنا حه سبراجيمين ريه هي ه، به،,../data/muharaf_prepared_resized/test/test_000971.png,2025-12-02T14:56:13,Sana
+test_000981,Irrelevant / non-text,,0.7894736842105263,عضو حبيب نبهان ١٨٨٠,مة سلمنة ١م,../data/muharaf_prepared_resized/test/test_000981.png,2025-12-02T14:56:25,Sana
+test_001006,Segmentation error,,0.7586206896551724,حققه مخمن انطونيوس موسي بطرام,هانية يعو ي رويي,../data/muharaf_prepared_resized/test/test_001006.png,2025-12-02T14:56:34,Sana
+test_001072,Script mismatch (non-Arabic),,0.75,Guinée Française,CToe ikaeay,../data/muharaf_prepared_resized/test/test_001072.png,2025-12-02T14:56:38,Sana
+test_000561,Wrong transcription,,0.75,ضاهر,ه,../data/muharaf_prepared_resized/test/test_000561.png,2025-12-02T14:57:10,Sana
+test_000973,Orientation error,,0.7482517482517482,فصادق عليه واكتفى بهِ وابرز من يده السَند المذكور وهذه صورته ٢٣٥٠ فقط الفين وثلاثماية وخمسَون قرشاً لا غير انه فى ١ ايلول سنة ٨٦ تدفع ليد الشيخ,فيهت مي ه ى  اينهما بيسم ي الين) التايم  ٨٨. ديره ابرح) رم  سيما اته بدريز خن الجميم، منه,../data/muharaf_prepared_resized/test/test_000973.png,2025-12-02T14:57:14,Sana
+test_000972,Orientation error,,0.7445255474452555,معه دومينا احدى المدعى عليهم واما طنوسَ ومخايل فلم يحضرا حالة كونه تصدر بطلبهما ثلاث بوصلات دعوة ابلغت لمحل اقامتهم واعيدت وبنهاية النهار,لماية تبلة برت ) ليه هم يمنا ي ٢) يله من ساين اام ري ديم يه ابتر له ستهر، رم ٢٩٦  س/ر ١ ابته٢ ن,../data/muharaf_prepared_resized/test/test_000972.png,2025-12-02T14:57:17,Sana
+test_000668,Script mismatch (non-Arabic),,0.7435897435897436,It meant until we meet again I couldn't,He  e c t w oisn,../data/muharaf_prepared_resized/test/test_000668.png,2025-12-02T14:57:29,Sana
+test_000970,Orientation error,,0.7352941176470589,يدفع لهما ان غب ان يحلفا اليمين المتوجب عليهما شرعاً ودفع ذلك مع الفايدة بالماية ثمانية قروش من الاسَتحقاق لحين الاداء ووجبت على المدعى عليه رسَوم المحاكمة البالغة ثلاثين,لين بيمنا جحمر الرته ٧ بستة  ٢٢٢ التحيه ايمين به ر بتهرة٥ من  ب  ٩    التمتما ابهخ ب اخ ١ مينة,../data/muharaf_prepared_resized/test/test_000970.png,2025-12-02T14:57:34,Sana
+test_000669,Script mismatch (non-Arabic),,0.7333333333333333,think of the word in English when you said it,e s le u e cg e  toe e whgs,../data/muharaf_prepared_resized/test/test_000669.png,2025-12-02T14:57:39,Sana
+test_000666,Script mismatch (non-Arabic),,0.7333333333333333,the last name of her cousing I will write now,Ien n e oee ce e e ce ne Cauet,../data/muharaf_prepared_resized/test/test_000666.png,2025-12-02T14:57:41,Sana
+test_000982,Irrelevant / non-text,,0.7058823529411765,رىس سليم باز ١٨٨٣,ي  سَتان ١ل١,../data/muharaf_prepared_resized/test/test_000982.png,2025-12-02T14:57:45,Sana
+test_000664,Script mismatch (non-Arabic),,0.6818181818181818,altho - she didnt send,Ho Isoe t s aoi,../data/muharaf_prepared_resized/test/test_000664.png,2025-12-02T14:57:48,Sana
+test_000919,Wrong transcription,,0.6785714285714286,والمحل المسطورين سليخ ومختلف محسومة من اصل النومرو السابقة يحدها قبلة ملك المعقود له,شرقا ملك الياس عازار حبيب شمالاتركة عن طنوس ساحة عزبا مشاع كوسبا والمعقود عليه,../data/muharaf_prepared_resized/test/test_000919.png,2025-12-02T14:58:03,Sana
+test_000975,Orientation error,,0.6666666666666666,١٨٧,٧٧,../data/muharaf_prepared_resized/test/test_000975.png,2025-12-02T14:58:12,Sana
+test_000658,Script mismatch (non-Arabic),,0.6666666666666666,321193,123223,../data/muharaf_prepared_resized/test/test_000658.png,2025-12-02T14:58:21,Sana
+test_000024,Valid but hard,,0.6666666666666666,(٦),(1١,../data/muharaf_prepared_resized/test/test_000024.png,2025-12-02T16:45:02,Sana
+test_000595,Segmentation error,,0.6666666666666666,عدد ٤/ ٨١,عدد,../data/muharaf_prepared_resized/test/test_000595.png,2025-12-02T14:59:00,Sana
+test_001055,Script mismatch (non-Arabic),,0.625,Krouger & Wakim Attallah,Tog al Aaala,../data/muharaf_prepared_resized/test/test_001055.png,2025-12-02T14:59:11,Sana
+test_000810,Script mismatch (non-Arabic),,0.625,2019/254,20/2013,../data/muharaf_prepared_resized/test/test_000810.png,2025-12-02T14:59:18,Sana
+test_000781,Wrong transcription,,0.6153846153846154,٢٤ ك٢ سنة ٩٢٦,٢٤ ك٢,../data/muharaf_prepared_resized/test/test_000781.png,2025-12-02T16:45:18,Sana
+test_000545,Valid but hard,,0.6041666666666666,الحورى ىوسف                          الخورى بطرس,الحوىى ىوسف      ال بطرسطيسن,../data/muharaf_prepared_resized/test/test_000545.png,2025-12-02T14:59:55,Sana
+test_000619,Segmentation error,,0.6,رقم ٢٤٩/٥٥,كم  ٢٤٥,../data/muharaf_prepared_resized/test/test_000619.png,2025-12-02T15:00:05,Sana
+test_000980,Irrelevant / non-text,,0.6,عضو حسين العلم الحاج يوسف,سنيه ل لجاج واف,../data/muharaf_prepared_resized/test/test_000980.png,2025-12-02T15:00:13,Sana
+test_001157,Valid but hard,,0.5833333333333334,واطاله تعالى,واطال,../data/muharaf_prepared_resized/test/test_001157.png,2025-12-02T15:00:21,Sana
+test_000544,Valid but hard,,0.5704697986577181,قانون هذا ما لقدم اعراضه مكررين لثم أنامكم سَيدي                                                  ولد سىادكم                              ولد سَيادكم,قانون هذا ما لزم اعرضه مكررين لم انامكم سَيدى ولد سادكم ولد سَيادكم,../data/muharaf_prepared_resized/test/test_000544.png,2025-12-02T15:00:30,Sana
+test_000809,Segmentation error,,0.5454545454545454,بطرس البطرىرك الانطاكى,مطراس الى الطم,../data/muharaf_prepared_resized/test/test_000809.png,2025-12-02T15:00:44,Sana
+test_000811,Segmentation error,,0.5454545454545454,الحقير يوسف,الحوىوس,../data/muharaf_prepared_resized/test/test_000811.png,2025-12-02T15:00:50,Sana
+test_000004,Irrelevant / signature,,0.5384615384615384,العنيسي سرحال,اعيس ايس لال,../data/muharaf_prepared_resized/test/test_000004.png,2025-12-02T15:01:07,Sana
+test_000886,Wrong transcription,,0.5384615384615384,يوسف محج وسلمان على امراته ثم ...وسرنا من حلب مع ...,يومف محيح وسلمنا على اراة ثم الصبح ركنا وسالرا من حلب مع مكارين,../data/muharaf_prepared_resized/test/test_000886.png,2025-12-02T15:01:49,Sana
+test_000784,Segmentation error,,0.5384615384615384,عصو حلىل ىعوم,عصو حسل سلحان,../data/muharaf_prepared_resized/test/test_000784.png,2025-12-02T15:01:55,Sana
+test_000786,Segmentation error,,0.5263157894736842,عصو ىعوم دىب العارح,عصو ىىم سحعان,../data/muharaf_prepared_resized/test/test_000786.png,2025-12-02T15:01:57,Sana
+test_001100,Script mismatch (non-Arabic),,0.5,56,86,../data/muharaf_prepared_resized/test/test_001100.png,2025-12-02T15:02:02,Sana
+test_001118,Script mismatch (non-Arabic),,0.5,بيروت في 2002/4/22,بيروت في ee,../data/muharaf_prepared_resized/test/test_001118.png,2025-12-02T15:02:44,Sana
+test_000888,Script mismatch (non-Arabic),,0.5,QAJE5G_4 3,QJE33G_48 2,../data/muharaf_prepared_resized/test/test_000888.png,2025-12-02T15:02:51,Sana
+test_000616,Script mismatch (non-Arabic),,0.5,محامي العدل الخوري انطون,محارى الحدل للطايات,../data/muharaf_prepared_resized/test/test_000616.png,2025-12-02T15:02:51,Sana
+test_000880,Valid but hard,,0.5,٢٣,٢٢,../data/muharaf_prepared_resized/test/test_000880.png,2025-12-02T16:45:23,Sana
+test_000877,Valid but hard,,0.5,٢٦,٢٩,../data/muharaf_prepared_resized/test/test_000877.png,2025-12-02T16:45:27,Sana
+test_001159,Segmentation error,,0.5,عن دنبري فى ١٣ ت١ /٩٠٧,عن اندري حري ٣ ٩٠٦,../data/muharaf_prepared_resized/test/test_001159.png,2025-12-02T15:03:37,Sana
+test_000783,Segmentation error,,0.5,عصو ىاىف,عصو و كىم,../data/muharaf_prepared_resized/test/test_000783.png,2025-12-02T15:03:40,Sana
+test_000738,Valid but hard,,0.5,٩٨/٩/٨,٨٩/٦,../data/muharaf_prepared_resized/test/test_000738.png,2025-12-02T16:45:31,Sana
+test_000787,Segmentation error,,0.4615384615384615,عصو سعىد كنعا,عضو سى كىان,../data/muharaf_prepared_resized/test/test_000787.png,2025-12-02T15:03:58,Sana
+test_000921,Segmentation error,,0.4615384615384615,شيخ صلح كوسبا,شيخ صلحم,../data/muharaf_prepared_resized/test/test_000921.png,2025-12-02T15:04:01,Sana
+test_000998,Script mismatch (non-Arabic),,0.4444444444444444,QBat3D-10,QBat9-4,../data/muharaf_prepared_resized/test/test_000998.png,2025-12-02T15:04:05,Sana
+test_001034,Valid but hard,,0.4444444444444444,باريس في ٣ ت١ ١٩٢٠,باريسَ ف ٢ ت١ سنه ٩٤٠,../data/muharaf_prepared_resized/test/test_001034.png,2025-12-02T15:05:33,Sana
+test_000481,Script mismatch (non-Arabic),,0.4375,JPK2B-96			4		٢),JPK2B-68		1,../data/muharaf_prepared_resized/test/test_000481.png,2025-12-02T15:05:43,Sana
+test_001130,Script mismatch (non-Arabic),,0.4285714285714285,TB1A-18,M1A-1,../data/muharaf_prepared_resized/test/test_001130.png,2025-12-02T15:05:45,Sana
+test_001066,Script mismatch (non-Arabic),,0.4285714285714285,Conakry,Jookry,../data/muharaf_prepared_resized/test/test_001066.png,2025-12-02T15:05:46,Sana
+test_000909,Segmentation error,,0.4230769230769231,عدد ٢٦٨٥ تاريخ ٢٠ تموز ٩٣٢,٢٨ تاريخ ٢٠ تموز سنة ٩٣٤,../data/muharaf_prepared_resized/test/test_000909.png,2025-12-02T15:05:53,Sana
+test_001024,Valid but hard,,0.4166666666666667,حقها (٧٠٠ $),حفها (٠),../data/muharaf_prepared_resized/test/test_001024.png,2025-12-02T15:06:01,Sana
+test_001138,Valid but hard,,0.4166666666666667,توفيق الباشا,تعرفيق الان,../data/muharaf_prepared_resized/test/test_001138.png,2025-12-02T15:06:13,Sana
+test_000007,Valid but hard,,0.4137931034482758,انها انشالله قريب نشاهد بعضنا,انها هاس قريب شاهديون,../data/muharaf_prepared_resized/test/test_000007.png,2025-12-02T15:06:20,Sana
+test_000427,Script mismatch (non-Arabic),,0.4,JEH2E1-308,JEH21-22,../data/muharaf_prepared_resized/test/test_000427.png,2025-12-02T15:06:23,Sana
+test_001026,Valid but hard,,0.4,- ٩ -,-٩-,../data/muharaf_prepared_resized/test/test_001026.png,2025-12-02T16:45:37,Sana
+test_001043,Valid but hard,,0.4,مستمد,مسمه,../data/muharaf_prepared_resized/test/test_001043.png,2025-12-02T15:39:15,Sana
+test_000098,Segmentation error,,0.4,١٣٤٣ ١٩ ج٢,١٣ ١٣٢ ج٢,../data/muharaf_prepared_resized/test/test_000098.png,2025-12-02T15:39:19,Sana
+test_000008,Valid but hard,,0.4,عتابا,عنايا,../data/muharaf_prepared_resized/test/test_000008.png,2025-12-02T15:39:22,Sana
+test_000340,Valid but hard,,0.3888888888888889,ونجمتو بقيت مخبايي,ونجمتو بقيت     م خبا,../data/muharaf_prepared_resized/test/test_000340.png,2025-12-02T15:39:29,Sana
+test_000522,Valid but hard,,0.3793103448275862,عن قريةممجز: ..... انطون ملحم,عن قرية محر	انطون ملحم,../data/muharaf_prepared_resized/test/test_000522.png,2025-12-02T15:39:35,Sana
+test_000152,Script mismatch (non-Arabic),,0.375,EAK1A-38,EAK1A-662,../data/muharaf_prepared_resized/test/test_000152.png,2025-12-02T15:39:38,Sana
+test_001308,Script mismatch (non-Arabic),,0.3714285714285714,وقد سعى بنا تيرو فدرال Tiro Federal,وقد سعى بنا تيروفدر الe  Haue,../data/muharaf_prepared_resized/test/test_001308.png,2025-12-02T15:39:44,Sana
+test_000134,Valid but hard,,0.3666666666666666,لا تهرقوا الدم العزيز الغالي        فهو بقايا من دم الابطالِ,لا تهرتوا الدم العزيز الغالي                      ب  مامب الالا الر,../data/muharaf_prepared_resized/test/test_000134.png,2025-12-02T15:39:51,Sana
+test_000217,Script mismatch (non-Arabic),,0.3636363636363636,EAK1A - 192,EAK1A- 27,../data/muharaf_prepared_resized/test/test_000217.png,2025-12-02T15:40:01,Sana
+test_000923,Valid but hard,,0.3636363636363636,اسحق الصراف,الحوا لصراف,../data/muharaf_prepared_resized/test/test_000923.png,2025-12-02T15:40:09,Sana
+test_000003,Valid but hard,,0.3578947368421052,بالاجمال سَلامي لكل معارفي واصحابي في الجيرة خاتم كتابي بالوف من القبلات ابن شقيقتك سلم خيرالله,بالاجمال سلاكيس لكف معارفي واصحايي في الجبرهة خانم كتليب بالوف من العكبرس ان اي,../data/muharaf_prepared_resized/test/test_000003.png,2025-12-02T15:40:49,Sana
+test_000875,Valid but hard,,0.3571428571428571,نزلنا بخان قريب تلك الللة وبعد ان نزلنا غراضنا ... كلعنا,نزلنا بخان قريب اسكله وبعدان نزلنا غراضنا والحمعة هناك طلعنا,../data/muharaf_prepared_resized/test/test_000875.png,2025-12-02T15:40:56,Sana
+test_000399,Valid but hard,,0.3333333333333333,وسمعنا براسك شي عن      ولما فحصناك لقيناك,وسمعنا براشك شعي  وما فحصفاك عنا,../data/muharaf_prepared_resized/test/test_000399.png,2025-12-02T15:41:01,Sana
+test_000654,Wrong transcription,,0.3333333333333333,١١ تموز ١٩٧٣,١١/ تمور ٩٧٣٧,../data/muharaf_prepared_resized/test/test_000654.png,2025-12-02T16:45:47,Sana
+test_000808,Valid but hard,,0.3333333333333333,وسبع وثلاثين صح صح,وسبع وثلاثين,../data/muharaf_prepared_resized/test/test_000808.png,2025-12-02T15:41:22,Sana
+test_000754,Valid but hard,,0.3333333333333333,١٦١,١٦٦,../data/muharaf_prepared_resized/test/test_000754.png,2025-12-02T16:45:51,Sana
+test_000286,Valid but hard,,0.3114754098360656,بتجتني بخشيش                                  من الندي وبتعيش,بتجتني بخشيش                                              من لن وي تشيعي,../data/muharaf_prepared_resized/test/test_000286.png,2025-12-02T15:41:32,Sana
+test_001197,Valid but hard,,0.3076923076923077,نوح    (كشاف),نوح (كشاف,../data/muharaf_prepared_resized/test/test_001197.png,2025-12-02T15:41:40,Sana
+test_000969,Valid but hard,,0.3076923076923077,ختام المرافعه,ختام المرق,../data/muharaf_prepared_resized/test/test_000969.png,2025-12-02T15:41:47,Sana
+test_000151,Valid but hard,,0.3061224489795918,. . . .   يا رجالْ        قفوا فما غايتنا القتالْ,".... يا رجال"" قفوا فما غانيتنا القتال",../data/muharaf_prepared_resized/test/test_000151.png,2025-12-02T15:41:51,Sana
+test_001129,Script mismatch (non-Arabic),,0.3055555555555556,مملكة البحرين من 4 الى 9 نيسان 2002.,ممكلة البحرن فن  ال ٩ نيسان o٥.,../data/muharaf_prepared_resized/test/test_001129.png,2025-12-02T15:42:12,Sana
+test_001111,Valid but hard,,0.3043478260869565,# 5000 # $ (خمسة الاف دولار) ؛ متمنياً ان ينال,o (خمسة الاف (ولار)؛ قمنياً ان ينال,../data/muharaf_prepared_resized/test/test_001111.png,2025-12-02T15:42:24,Sana
+test_001167,Script mismatch (non-Arabic),,0.3,YAL2A-14 1,YAL2A-13,../data/muharaf_prepared_resized/test/test_001167.png,2025-12-02T15:42:27,Sana
+test_000680,Valid but hard,,0.3,السَلام والتحيات والسَلام ختام,نعها والقيات والَلام ختام,../data/muharaf_prepared_resized/test/test_000680.png,2025-12-02T15:43:03,Sana
+test_000397,Script mismatch (non-Arabic),,0.3,JEH2E1-204,JEEE1-206,../data/muharaf_prepared_resized/test/test_000397.png,2025-12-02T15:43:06,Sana
+test_000291,Valid but hard,,0.2903225806451613,فردوسَ خدودك سَوّا                                  ثمرات ملاح,فردوسَ خدودك سَوا                                               تر ا متاح,../data/muharaf_prepared_resized/test/test_000291.png,2025-12-02T15:43:15,Sana
+test_000445,Valid but hard,,0.2903225806451613,بقدر بأكد يا اغلى واطيب الاحباب,بقد دبا كديا اغلى واطيب الاصاني,../data/muharaf_prepared_resized/test/test_000445.png,2025-12-02T15:43:24,Sana
+test_000501,Irrelevant / non-text,,0.2857142857142857,*		*		*,*	*	*,../data/muharaf_prepared_resized/test/test_000501.png,2025-12-02T15:43:35,Sana
+test_000763,Segmentation error,,0.2857142857142857,عدد ١٢٩,عـدد ١٢,../data/muharaf_prepared_resized/test/test_000763.png,2025-12-02T15:43:39,Sana
+test_000600,Valid but hard,,0.2857142857142857,القبيات - عكار,القبيات تحفار,../data/muharaf_prepared_resized/test/test_000600.png,2025-12-02T15:43:43,Sana
+test_000499,Irrelevant / non-text,,0.2857142857142857,*		*		*,*	*	*,../data/muharaf_prepared_resized/test/test_000499.png,2025-12-02T15:43:48,Sana
+test_000489,Irrelevant / non-text,,0.2857142857142857,*		*		*,*	*	*,../data/muharaf_prepared_resized/test/test_000489.png,2025-12-02T15:43:52,Sana
+test_001108,Script mismatch (non-Arabic),,0.2857142857142857,TB1A-17,YB1A-11,../data/muharaf_prepared_resized/test/test_001108.png,2025-12-02T15:43:59,Sana
+test_000446,Segmentation error,,0.2857142857142857,شفنا كرومك عنب ونجاصُ ملياني,شفنا كرومك عنب وشخاص ي,../data/muharaf_prepared_resized/test/test_000446.png,2025-12-02T15:44:07,Sana
+test_001333,Valid but hard,,0.2857142857142857,وفي ٢٠ ك ١ : ١۹٠٥ وصل,٢٠ ك١ : ١۹٩٠٥ وصل,../data/muharaf_prepared_resized/test/test_001333.png,2025-12-02T16:45:56,Sana
+test_000057,Valid but hard,,0.2777777777777778,إسَاغِنْ -كِتامه- زَرْفَتْ - تَرْغِيسْتْ - هذه الأسماء,إساغينْ – كتامه - زَرْقَتْ – تسَر غيّشْتْ – هذه الاسماء,../data/muharaf_prepared_resized/test/test_000057.png,2025-12-02T15:44:40,Sana
+test_001050,Script mismatch (non-Arabic),,0.2765957446808511,التي هي اكبر مدرسة في باريس ووظيفتي sous préfet,التي هي اكبر مدرسَة في باريسَ وونسفتي ees us,../data/muharaf_prepared_resized/test/test_001050.png,2025-12-02T15:44:45,Sana
+test_001319,Valid but hard,,0.275,قصر كبير للكورونيل رودو لفريد ومنكس يصيف,نصر كبير للسكورويل رود ولنفيوسا ومنكس يصف,../data/muharaf_prepared_resized/test/test_001319.png,2025-12-02T15:44:52,Sana
+test_000467,Valid but hard,,0.2727272727272727,من رفعت فرج,من رمفت فرح,../data/muharaf_prepared_resized/test/test_000467.png,2025-12-02T15:44:54,Sana
+test_001180,Valid but hard,,0.2727272727272727,اسعد الخورى,اسعد الوال,../data/muharaf_prepared_resized/test/test_001180.png,2025-12-02T15:44:57,Sana
+test_001033,Valid but hard,,0.2727272727272727,جبتلي معك .,جبتلي علك.,../data/muharaf_prepared_resized/test/test_001033.png,2025-12-02T15:44:59,Sana
+test_000868,Wrong transcription,,0.2727272727272727,بنصف ساعة نزلنا عجل فيه .. صحته عين من الجبل ... فنزلوا,لو ساعة نزلنا عجل فين مم صحته عين من الجميل برتية فنزلو,../data/muharaf_prepared_resized/test/test_000868.png,2025-12-02T15:45:21,Sana
+test_000662,Script mismatch (non-Arabic),,0.2727272727272727,في الجبل بتغرين 991099,في الجبل بتغرين ١٩٩٩٩؟,../data/muharaf_prepared_resized/test/test_000662.png,2025-12-02T15:45:26,Sana
+test_000330,Valid but hard,,0.2682926829268293,وصدرو بيخفق بالتعب جايي                                    يناجي حماك ويبلغ الغايي,وصدر يخفق بالتعب جابي                                              ي لحبنا الانك الي,../data/muharaf_prepared_resized/test/test_000330.png,2025-12-02T15:45:35,Sana
+test_001053,Valid but hard,,0.2678571428571428,في طيه تحويلاً بالف ومائتين فرنك ١٢٠٠ فرنك حسنة ٦٠٠ مائة,في طيه تحويلاً بالق ومائتين فرتك  رش سنة جائة,../data/muharaf_prepared_resized/test/test_001053.png,2025-12-02T15:45:40,Sana
+test_000367,Valid but hard,,0.2650602409638554,ونهج شعوب الميتي وخلي الجهاد                             يصبح وراك وانت قدام الوفود,ونهج شعوب الميتي وخلي الجهاد                                        بص بكر اات ت الفو,../data/muharaf_prepared_resized/test/test_000367.png,2025-12-02T15:45:41,Sana
+test_000852,Valid but hard,,0.2631578947368421,خاجلني شعور بالخيبة,خالحنى شعور بالخيّبة،,../data/muharaf_prepared_resized/test/test_000852.png,2025-12-02T15:45:43,Sana
+test_000632,Valid but hard,,0.2631578947368421,القطين ٨ ايلول ١٩٤٦,نعطين  ٨ ايلول ١٩٤٧,../data/muharaf_prepared_resized/test/test_000632.png,2025-12-02T16:46:05,Sana
+test_000403,Valid but hard,,0.2608695652173913,عندك رفع الخيط  زنود      وشمسك شغل هنود الحمر,عندك رفع الخيط ذنورد   وشمك شغل هنو ل,../data/muharaf_prepared_resized/test/test_000403.png,2025-12-02T15:46:29,Sana
+test_000015,Valid but hard,,0.2608695652173913,بلا شك فرحت قلوبكم الحزنانة انشالله لقبال قلوبنا المدملة ما عدت اعرف بماذا احرر اذكر يا خالي,بلاشل فرحت ملوكم المزنانة ان لقبال قلوسا المدعلة ما عوسته اعرف بمازا اجرر از كراخلي,../data/muharaf_prepared_resized/test/test_000015.png,2025-12-02T15:46:31,Sana
+test_000327,Valid but hard,,0.2588235294117647,يا نزهة الدنيا وعروسَ لبنان                                    زهر الابا مكلل مسَاعيك,يا نزهة الدنيا وعروَ لبنان                                            هرها الا بلسَاك معلامعك,../data/muharaf_prepared_resized/test/test_000327.png,2025-12-02T15:46:32,Sana
+test_000359,Valid but hard,,0.2584269662921348,وجمعت الاديان في حب الوطن                                واسَتنجدت في همتك يا ابن الاسَود,وجمعت الاديان في حبر الوطن                                       واس تخ ن انرن الود,../data/muharaf_prepared_resized/test/test_000359.png,2025-12-02T15:46:33,Sana
+test_000294,Valid but hard,,0.2580645161290322,تا نحسَب روحي حوّا                                   قطفت تفاح,تا نحسَب روحي حوا                                             قط طقب تاح,../data/muharaf_prepared_resized/test/test_000294.png,2025-12-02T15:46:35,Sana
+test_000320,Valid but hard,,0.2575757575757575,خيبتي ظنوني   وطلبي                                   وسَراجي ناسَ,خيبتي ظنوني    وطلبي                                             وسَرير نسان,../data/muharaf_prepared_resized/test/test_000320.png,2025-12-02T15:46:36,Sana
+test_001258,Valid but hard,,0.2539682539682539,لدلول وترجمان منهم. وغيره يعزمني لنشرب شاي فافتكر انه على حسابه,كولول وترجان مدهم. وغيره بقرمني مرار لتسَر شاي فافتكر انه على حسابه,../data/muharaf_prepared_resized/test/test_001258.png,2025-12-02T15:46:39,Sana
+test_000865,Valid but hard,,0.25,وفيه امضى بين لاهل البيت وعندها لنا ومن الصبح سافرنا,وفيه او بيسة لاهل البيت وغوها لنا ومني الصاح ضرنا,../data/muharaf_prepared_resized/test/test_000865.png,2025-12-02T15:46:52,Sana
+test_001285,Valid but hard,,0.25,ورجع,ورجح,../data/muharaf_prepared_resized/test/test_001285.png,2025-12-02T15:46:55,Sana
+test_001099,Script mismatch (non-Arabic),,0.25,Krougar attallah,Tougar Attalah,../data/muharaf_prepared_resized/test/test_001099.png,2025-12-02T15:46:58,Sana
+test_000716,Script mismatch (non-Arabic),,0.25,MK2A-8 4,MK2A-8,../data/muharaf_prepared_resized/test/test_000716.png,2025-12-02T15:46:59,Sana
+test_000987,Script mismatch (non-Arabic),,0.25,QBat3D-5,QBat--5,../data/muharaf_prepared_resized/test/test_000987.png,2025-12-02T15:47:01,Sana
+test_001046,Valid but hard,,0.25,الخوري الياس,الحورى اليكس,../data/muharaf_prepared_resized/test/test_001046.png,2025-12-02T15:47:11,Sana
+test_000017,Script mismatch (non-Arabic),,0.25,AF-304 5,AF-304,../data/muharaf_prepared_resized/test/test_000017.png,2025-12-02T15:47:23,Sana
+test_000299,Valid but hard,,0.25,خلقت زهر ابيض على الغصن الطويل                        وكل ريحا طيبي خلقت معك,خلقت زهر ابيض على الغصن الطويل                                  وك ي بليح حك قمك,../data/muharaf_prepared_resized/test/test_000299.png,2025-12-02T15:47:26,Sana
+test_000950,Valid but hard,,0.25,سنة ٣٠٥ وفى ١٥ تشرين اول سنة ٣٠٣,٣٣٠٥ وفى ١٥ تشرين اول ٣٠٣,../data/muharaf_prepared_resized/test/test_000950.png,2025-12-02T16:46:09,Sana
+test_000284,Valid but hard,,0.2470588235294117,وبتودعك لما بتجي تا تختفي                                  عا خدود صفرا دمعتين بينزلو,وبتودعك لما ينجي تا  تختفي                                     عا ور صوي ين تير,../data/muharaf_prepared_resized/test/test_000284.png,2025-12-02T15:47:42,Sana
+test_000329,Valid but hard,,0.2467532467532467,وصدرو بيخفق بالتعب جايي                                  قبل الوقت حتى يمسَيك,وصدر يخفق بالتعب جايي                                           قبل لولا لمي مَيك,../data/muharaf_prepared_resized/test/test_000329.png,2025-12-02T15:47:43,Sana
+test_000374,Valid but hard,,0.2465753424657534,ومن هالميل ومن هالميل                                 بواق الفل صفوف صفوف,ومن هالميل ومن هالميل                                           بال الضري فو,../data/muharaf_prepared_resized/test/test_000374.png,2025-12-02T15:47:45,Sana
+test_000006,Valid but hard,,0.2444444444444444,تصبر يا قلبي علي بعدهم  كريم الله يجمعنا سَوا,تصير يا قلبي علي بعدهم     كريرالله بحمف سَوا,../data/muharaf_prepared_resized/test/test_000006.png,2025-12-02T15:47:48,Sana
+test_000282,Valid but hard,,0.2439024390243902,بتشرق عليك الشمسَ بيضا مهفهفي                           وشعرها مفشكل ما فضيت تعملو,بتشرق عليك الشمسَ بيضا مهفهفي                                وش كال الفها ع ما ململو,../data/muharaf_prepared_resized/test/test_000282.png,2025-12-02T15:47:49,Sana
+test_000357,Valid but hard,,0.2432432432432432,قصيدة غز لية عنوانها . . . شوفي الدني,قصيدة غزلية عنوانها   . .  .   . شو في الدني,../data/muharaf_prepared_resized/test/test_000357.png,2025-12-02T15:47:51,Sana
+test_000949,Valid but hard,,0.2429378531073446,٨ صفر سنة ٣٠٥ وفى ١٤ ت١ سنة ٣٠٣ ولاجله تحرر هذا الاعلام نسَختين من محكمة بداية قضا البترون يعرض على عزتلو قايمقام الافخم لكى غب اجرا ايجابه تسليم لكل فريق نسَخة تحريراً فى ٩ صفر,٥ ص سنة٣٠ وفى ١ ت ٣٠٣ ولاجله تحرر هذا الاعلام نسَخين من حكمة بداية قا البترن يعرض على عزتلو قايمقام الافخم كى باجرا اجه سَ ل لفسَة حراً ار,../data/muharaf_prepared_resized/test/test_000949.png,2025-12-02T15:48:03,Sana
+test_000351,Valid but hard,,0.2417582417582417,لا تبخشش نفوذك لنكار الجميل                                    بتعيش تحت السَيطرا وحقك قتيل,لا تبخشش نفوزك كتكار الجميل                                       بتت وا ارك سَ قيل,../data/muharaf_prepared_resized/test/test_000351.png,2025-12-02T15:48:09,Sana
+test_000350,Valid but hard,,0.2413793103448276,لا تبخشش نفوذك لنكار الجميل                                  وتريد حالك عبد تنباع بنقود,لا تبخشش نفوزك كفكار الجميل                                       وتي العدا بن قو,../data/muharaf_prepared_resized/test/test_000350.png,2025-12-02T15:48:18,Sana
+test_001176,Valid but hard,,0.2413793103448276,الى لثم ايادى السَتات ام سَليم وام اديب وسَوال صحة انجالهم,الى كتم ايارس انشات ام سليم كام اديب وسول صحه انخالهم,../data/muharaf_prepared_resized/test/test_001176.png,2025-12-02T15:48:21,Sana
+test_000383,Valid but hard,,0.2394366197183098,وشمس الخطفت لون النجر                                بتشرق بالجو المخضر,وشمس الخطفت لون النجحر                                          بتشر الال الخر,../data/muharaf_prepared_resized/test/test_000383.png,2025-12-02T15:48:23,Sana
+test_000368,Valid but hard,,0.238095238095238,ونهج شعوب الميتي وخلي الجهاد                                يسَتفاد منك ومنو تسَتفاد,ونهج شعوب الميتي وخلي الجهاد                                     يسَ وسَود اوت تشفاتا,../data/muharaf_prepared_resized/test/test_000368.png,2025-12-02T15:48:26,Sana
+test_000005,Valid but hard,,0.2340425531914893,جيت لدارهم ذني بعدهم / لقيت الدار تنعي من بعدهم,جبت لادهم زني بعدهم العيث الدارتتعي من يعدهم,../data/muharaf_prepared_resized/test/test_000005.png,2025-12-02T15:48:30,Sana
+test_000365,Valid but hard,,0.2325581395348837,وجمعة الاديان في حب الوطن                                حزمي احتل افكارها المبدا وقطن,وجمعت الاديان في حسب الوطن                                       ح  ا احا ا الماد الطون,../data/muharaf_prepared_resized/test/test_000365.png,2025-12-02T15:48:31,Sana
+test_000885,Valid but hard,,0.2318840579710145,يعقوب الاستانة وسلمانهم الى محج وطلعنا الساعة ٣ ليلاً بعدما جرينا بيت,يقعوب الاثتانه وسلموهم الى بحيج وطلعنا الساعة ١٢ ملًا بعدما وربنا بيت,../data/muharaf_prepared_resized/test/test_000885.png,2025-12-02T15:48:35,Sana
+test_000358,Valid but hard,,0.2317073170731707,شوفي الدني الخضرا على قبالك                                عن ترسَم بنيسَان اشكالك,شوفي الدني الخضر ا على قبالك                                          ع ت سي سَا الك,../data/muharaf_prepared_resized/test/test_000358.png,2025-12-02T15:48:36,Sana
+test_000364,Valid but hard,,0.2307692307692307,والكوكب واختو الشمس طفلين                                 عن يلعبو بيفية ديالك,والكوكب واختو الشمس طفلين                                             عن يعي بيوي ليالك,../data/muharaf_prepared_resized/test/test_000364.png,2025-12-02T15:48:38,Sana
+test_000687,Segmentation error,,0.2307692307692307,قسطنطين الياس,قطنطة الياس,../data/muharaf_prepared_resized/test/test_000687.png,2025-12-02T15:48:56,Sana
+test_000371,Valid but hard,,0.2272727272727272,وبالرمح دق على بواب مسَتقبلك                                 بتجبرو بسَن الضحوك يسَتقبلك,وبالرح دق على بواب مسَتقبلك                                     بحرحو السور ستوت تيلك,../data/muharaf_prepared_resized/test/test_000371.png,2025-12-02T15:49:01,Sana
+test_000398,Valid but hard,,0.2272727272727272,بولادك لا تخيّب ظن      هوْ طلعو لأمن مش لاك,بولادك لا تخي اظن هوّ طلعو لأمن مشلاك,../data/muharaf_prepared_resized/test/test_000398.png,2025-12-02T15:49:03,Sana
+test_000224,Script mismatch (non-Arabic),,0.2266666666666666,للاخوية عزيز ابان (برفاه) وقيصر آدم (معاون) وانطون كرم conseiller عند الوسط,للاخوية عزيز اباله (برفاه) وقيصر ذكم (معاون) وانطون كرio عن الوىسط,../data/muharaf_prepared_resized/test/test_000224.png,2025-12-02T15:49:29,Sana
+test_000363,Valid but hard,,0.2261904761904762,قلوب العدا احترقت عا باب العين                               وانزخت على رمشة الجفنين,قلوب العدا احترقت عاباب العين                                       وان تعل علعة الذني,../data/muharaf_prepared_resized/test/test_000363.png,2025-12-02T15:49:31,Sana
+test_000717,Valid but hard,,0.2258064516129032,حدا بهذه بالسلطة المنتدبة توقيف,حدا بالسلطة المنتتدربة توقيف,../data/muharaf_prepared_resized/test/test_000717.png,2025-12-02T15:49:34,Sana
+test_000354,Valid but hard,,0.2247191011235955,وفرفط نجوم المجد من افق الزمان                                 ومهمد الافلاك سَاحة برلمان,وفرفط نجوم المجد من افق الزمان                                         وم ل الاسَ الرة ربا,../data/muharaf_prepared_resized/test/test_000354.png,2025-12-02T15:49:36,Sana
+test_001254,Valid but hard,,0.2241379310344827,نزلنا باريس استملت تحريرك الذي فيه ورق وقطعنا البحر الكبير,فركا بار استلت تحريرك الذي فية ورق ونط وقطعنا التبحر الكبير,../data/muharaf_prepared_resized/test/test_001254.png,2025-12-02T15:49:40,Sana
+test_001073,Valid but hard,,0.2222222222222222,كونكري في ١ حزيران سنة ١٩٣١,كونكري في حزيران ١٩٣١,../data/muharaf_prepared_resized/test/test_001073.png,2025-12-02T16:46:19,Sana
+test_001196,Valid but hard,,0.2222222222222222,جميل يوسف,احميل يوسف,../data/muharaf_prepared_resized/test/test_001196.png,2025-12-02T15:49:52,Sana
+test_000390,Valid but hard,,0.2222222222222222,وبتصير تنظر لنا نحر                                          وتمشي معنا من غير شر,وبتصير تنظر لنا  ن                                                وشبين عي مطشر,../data/muharaf_prepared_resized/test/test_000390.png,2025-12-02T15:50:02,Sana
+test_000443,Valid but hard,,0.2222222222222222,رح قول كلمه طبعها دم شرياني,اىرح قول كالمه طبعهاوم شرياتي,../data/muharaf_prepared_resized/test/test_000443.png,2025-12-02T15:50:07,Sana
+test_000289,Valid but hard,,0.2210526315789473,يا جارحا قلبي بهواك كيف ماراح                                       لا تلحقيه بتقلبي بين الجراح,يا جارحا قلبي بهواك كيف ماراح                             ل قي بلبيب بوي الراح,../data/muharaf_prepared_resized/test/test_000289.png,2025-12-02T15:50:08,Sana
+test_000353,Valid but hard,,0.2209302325581395,وفرفط نجوم المجد من افق الزمان                                وحطها في جيد اعمالك عقود,وف قط نجوم المجد من افق الزمان                                      وحرها بيهي با عقعود,../data/muharaf_prepared_resized/test/test_000353.png,2025-12-02T15:50:09,Sana
+test_001210,Valid but hard,,0.21875,فثقوا  وليثق  اسكندر بك وداود بك,فتقوا ولثيق اسكندر بك وداوربك,../data/muharaf_prepared_resized/test/test_001210.png,2025-12-02T15:50:12,Sana
+test_000321,Valid but hard,,0.21875,ولما حكمتي بيصلبي                                   شفت الارماسَ,ولما حكمتي بيصلبي                                            شوف الناسَ,../data/muharaf_prepared_resized/test/test_000321.png,2025-12-02T15:50:15,Sana
+test_000356,Valid but hard,,0.2183908045977011,والسَهر على حراسَتو بتصير تشوف                              خطوي صغيري بينك وبين الخلود,واسَهر على حراسَتو بتصبر تشوف                                     خف بي بيطي ببيل النول,../data/muharaf_prepared_resized/test/test_000356.png,2025-12-02T15:50:19,Sana
+test_000370,Valid but hard,,0.2183908045977011,وبالرمح دق على بواب مسَتقبلك                                بيضيفك بالمرحبا وصدق الوعود,وبالرمح دق على بواب مسَتقبلك                                      يفبي الصلار صاد الدصود,../data/muharaf_prepared_resized/test/test_000370.png,2025-12-02T15:50:20,Sana
+test_000853,Script mismatch (non-Arabic),,1.0,9,8,../data/muharaf_prepared_resized/test/test_000853.png,2025-12-02T16:23:02,Sana
+test_001207,Script mismatch (non-Arabic),,0.2,YS-4A-011J,S-4A-011,../data/muharaf_prepared_resized/test/test_001207.png,2025-12-02T16:23:07,Sana
+test_000448,Script mismatch (non-Arabic),,0.1818181818181818,JEH2E1-3015,JEH2E1-303,../data/muharaf_prepared_resized/test/test_000448.png,2025-12-02T16:23:09,Sana
+test_001098,Script mismatch (non-Arabic),,0.1666666666666666,Conkry,Conkrey,../data/muharaf_prepared_resized/test/test_001098.png,2025-12-02T16:23:10,Sana
+test_000844,Script mismatch (non-Arabic),,0.1515151515151515,عشر روايات بدءا من العام 1960 حين,عشر روايات بدءاً من العام ٩٥ حين,../data/muharaf_prepared_resized/test/test_000844.png,2025-12-02T16:23:33,Sana
+test_000690,Script mismatch (non-Arabic),,0.1428571428571428,MG1-150,MM1-150,../data/muharaf_prepared_resized/test/test_000690.png,2025-12-02T16:23:35,Sana
+test_000141,Script mismatch (non-Arabic),,0.1176470588235294,EAC-D-47e (copie),EAC-D-47b(copie),../data/muharaf_prepared_resized/test/test_000141.png,2025-12-02T16:23:36,Sana
+test_001112,Valid but hard,,0.1020408163265306,مثيلها عن سنة 1002 من يستحقها من العاملين الجادين,مثيلها عن سنة ٣ من يستحقها من العاملين الجاديف,../data/muharaf_prepared_resized/test/test_001112.png,2025-12-02T16:23:52,Sana
+test_001198,Script mismatch (non-Arabic),,0.1,YS_2F_015b,YS_2F_015,../data/muharaf_prepared_resized/test/test_001198.png,2025-12-02T16:23:56,Sana
+test_001127,Valid but hard,,0.0975609756097561,عن سنة 0002، وقد تسلمتها في ختام الاجتماع,عن سنة ٥، وقد تسلمتها في ختام الاجتماع,../data/muharaf_prepared_resized/test/test_001127.png,2025-12-02T16:24:09,Sana
+test_001188,Script mismatch (non-Arabic),,0.0714285714285714,YS - 1D - 070e,YS - 1D - 070,../data/muharaf_prepared_resized/test/test_001188.png,2025-12-02T16:24:13,Sana
+test_001139,Valid but hard,,0.0588235294117647,بيروت في 31/11/20,بيروت في 11/11/20,../data/muharaf_prepared_resized/test/test_001139.png,2025-12-02T16:24:23,Sana
+test_001231,Script mismatch (non-Arabic),,0.0,Monteria = Colombia,Monteria = Colombia,../data/muharaf_prepared_resized/test/test_001231.png,2025-12-02T16:24:26,Sana
+test_001233,Script mismatch (non-Arabic),,0.0,COMPRA DE FRUTOS DEL PAIS,COMPRA DE FRUTOS DEL PAIS,../data/muharaf_prepared_resized/test/test_001233.png,2025-12-02T16:24:27,Sana
+test_000208,Script mismatch (non-Arabic),,0.0,2,2,../data/muharaf_prepared_resized/test/test_000208.png,2025-12-02T16:24:29,Sana
+test_000194,Script mismatch (non-Arabic),,0.0,EAK1A-140,EAK1A-140,../data/muharaf_prepared_resized/test/test_000194.png,2025-12-02T16:24:31,Sana
+test_001232,Script mismatch (non-Arabic),,0.0,MERCANCIAS Y NOVEDADES,MERCANCIAS Y NOVEDADES,../data/muharaf_prepared_resized/test/test_001232.png,2025-12-02T16:24:33,Sana
+test_000184,Script mismatch (non-Arabic),,0.0,1,1,../data/muharaf_prepared_resized/test/test_000184.png,2025-12-02T16:24:36,Sana
+test_000834,Script mismatch (non-Arabic),,0.0,7,7,../data/muharaf_prepared_resized/test/test_000834.png,2025-12-02T16:24:37,Sana
+test_001229,Script mismatch (non-Arabic),,0.0,Comeiciante,Comeiciante,../data/muharaf_prepared_resized/test/test_001229.png,2025-12-02T16:24:39,Sana
+test_000174,Script mismatch (non-Arabic),,0.0,EAK1A-50,EAK1A-50,../data/muharaf_prepared_resized/test/test_000174.png,2025-12-02T16:24:40,Sana
+test_001151,Script mismatch (non-Arabic),,0.0,YAL2A-3,YAL2A-3,../data/muharaf_prepared_resized/test/test_001151.png,2025-12-02T16:24:41,Sana
+test_000819,Script mismatch (non-Arabic),,0.0,5,5,../data/muharaf_prepared_resized/test/test_000819.png,2025-12-02T16:24:42,Sana
+test_000259,Script mismatch (non-Arabic),,0.0,11,11,../data/muharaf_prepared_resized/test/test_000259.png,2025-12-02T16:24:43,Sana
+test_000974,Script mismatch (non-Arabic),,0.0,2,2,../data/muharaf_prepared_resized/test/test_000974.png,2025-12-02T16:24:44,Sana
+test_000925,Script mismatch (non-Arabic),,0.0,3,3,../data/muharaf_prepared_resized/test/test_000925.png,2025-12-02T16:24:45,Sana
+test_000292,Script mismatch (non-Arabic),,0.0,10,10,../data/muharaf_prepared_resized/test/test_000292.png,2025-12-02T16:24:46,Sana
+test_000315,Script mismatch (non-Arabic),,0.0,12,12,../data/muharaf_prepared_resized/test/test_000315.png,2025-12-02T16:24:47,Sana
+test_001016,Script mismatch (non-Arabic),,0.0,9,9,../data/muharaf_prepared_resized/test/test_001016.png,2025-12-02T16:24:48,Sana
+test_000271,Script mismatch (non-Arabic),,0.0,13,13,../data/muharaf_prepared_resized/test/test_000271.png,2025-12-02T16:24:49,Sana
+test_001234,Script mismatch (non-Arabic),,0.0,POR TELEGRAFO: SAIKALI,POR TELEGRAFO: SAIKALI,../data/muharaf_prepared_resized/test/test_001234.png,2025-12-02T16:24:51,Sana
+test_001121,Script mismatch (non-Arabic),,0.0,Tel. (01) 303344 - Fax (01) 311967 - Boite Postale 14/5312 - Beyrouth - Liban,Tel. (01) 303344 - Fax (01) 311967 - Boite Postale 14/5312 - Beyrouth - Liban,../data/muharaf_prepared_resized/test/test_001121.png,2025-12-02T16:24:52,Sana
+test_001122,Script mismatch (non-Arabic),,0.0,Toufic El Bacha,Toufic El Bacha,../data/muharaf_prepared_resized/test/test_001122.png,2025-12-02T16:24:54,Sana
+test_000706,Script mismatch (non-Arabic),,0.0,4/1,4/1,../data/muharaf_prepared_resized/test/test_000706.png,2025-12-02T16:24:59,Sana
+test_001228,Script mismatch (non-Arabic),,0.0,Miguel Saikali,Miguel Saikali,../data/muharaf_prepared_resized/test/test_001228.png,2025-12-02T16:25:01,Sana
+test_001142,Script mismatch (non-Arabic),,0.0,Tel. (01) 303344 - Fax (01) 311967 - Boite Postale 14/5312 - Beyrouth - Liban,Tel. (01) 303344 - Fax (01) 311967 - Boite Postale 14/5312 - Beyrouth - Liban,../data/muharaf_prepared_resized/test/test_001142.png,2025-12-02T16:25:03,Sana
+test_001143,Script mismatch (non-Arabic),,0.0,Toufic El Bacha,Toufic El Bacha,../data/muharaf_prepared_resized/test/test_001143.png,2025-12-02T16:25:05,Sana
+test_000979,Irrelevant / non-text,,0.074074074074074,محكمة بدايت قضاء بترون ١٣٠١,محمة بدايت قضاء بترن ١٣٠١,../data/muharaf_prepared_resized/test/test_000979.png,2025-12-15T12:05:04,Sana
+test_000311,Irrelevant / non-text,,0.0,.    .    .,.    .    .,../data/muharaf_prepared_resized/test/test_000311.png,2025-12-15T12:05:11,Sana
+test_000314,Irrelevant / non-text,,0.0,.    .    .,.    .    .,../data/muharaf_prepared_resized/test/test_000314.png,2025-12-18T15:24:25,Sana
+test_000313,Irrelevant / non-text,,0.0,.    .    .,.    .    .,../data/muharaf_prepared_resized/test/test_000313.png,2025-12-18T15:26:00,Sana
+test_000611,Segmentation error,,0.2,مطرانية طرابلس المارونية لبنان,مطرانية طرابلس المارونية,../data/muharaf_prepared_resized/test/test_000611.png,2025-12-18T15:28:11,Sana
