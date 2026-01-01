@@ -1,4 +1,4 @@
-ImageID,Label,Notes,CER,GroundTruth,Prediction,ImagePath,Timestamp,Reviewer
-07932,Wrong transcription,,1.0888888888888888,زراعت نظر انداز........حکومتی اعلان سے انحراف,دیگر اعشاریے دکھاتا اخباروں کی سرخیوں کی لئے بہتر ثابت ہوسکتا,../data/nust_prepared/train/07932.png,2025-12-13T18:20:52,Sana
-00229,Wrong transcription,,1.0,پر جنگل میں آگ لگائی گئی تھی جس کے دھویں نے,گنا کم ہرڑتا ہے۔ اس طرح فربانی بھی ہو جاتی ہے اور دردبھی,../data/nust_prepared/train/00229.png,2025-12-13T18:21:31,Sana
-08835,Wrong transcription,,0.8958333333333334,کو بہت کم ملتی ہیں، کہ بہت سے لوگوں کی تنخواہ ان,سال آنکھوں کا ٹیسٹ ہوتا ہے۔ جس نے ایک میل دور سے آتی ہوئی,../data/nust_prepared/train/08835.png,2025-12-13T18:21:35,Sana
+﻿ImageID,Label,Notes,CER,GroundTruth,Prediction,ImagePath,Timestamp
+7932,Wrong transcription,,1.0888888888888888,زراعت نظر انداز........حکومتی اعلان سے انحراف,دیگر اعشاریے دکھاتا اخباروں کی سرخیوں کی لئے بہتر ثابت ہوسکتا,../data/nust_prepared/train/07932.png,2025-12-13T18:20:52
+229,Wrong transcription,,1.0,پر جنگل میں آگ لگائی گئی تھی جس کے دھویں نے,گنا کم ہرڑتا ہے۔ اس طرح فربانی بھی ہو جاتی ہے اور دردبھی,../data/nust_prepared/train/00229.png,2025-12-13T18:21:31
+8835,Wrong transcription,,0.8958333333333334,کو بہت کم ملتی ہیں، کہ بہت سے لوگوں کی تنخواہ ان,سال آنکھوں کا ٹیسٹ ہوتا ہے۔ جس نے ایک میل دور سے آتی ہوئی,../data/nust_prepared/train/08835.png,2025-12-13T18:21:35

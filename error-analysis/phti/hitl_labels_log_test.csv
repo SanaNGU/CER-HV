@@ -1,120 +1,120 @@
-ImageID,Label,Notes,CER,GroundTruth,Prediction,ImagePath,Timestamp,Reviewer
-PHTI-JT-F-0201-1,Wrong transcription,,0.9230769230769232,شورى شعور او ژوند او فکر د رڼا غرځولو هڅه شوې ده.چرته چرته د شعرى,۵ ١٩٩ډه د ۲۰۰۰ء,../data/phti_valid_prepared/test/PHTI-JT-F-0201-1.png,2025-11-24T21:19:44,Sana
-PHTI-AF-F-0023-14,Segmentation error,,0.8421052631578947,نه مې يار يار شو نه يې خلاص د غمه شومه,ينم زام ن,../data/phti_valid_prepared/test/PHTI-AF-F-0023-14.png,2025-11-24T21:19:48,Sana
-PHTI-MP-M-0043-12,Wrong transcription,,0.8153846153846154,د ايران بادشاه شاه طهماسپ دۀ له فوځی کمک ورکړو ـ  او دے د حملې په,غرضا راروان شو ـ وړمبے ئې کابل فتح کړو ـ  بيا ئې پنجاب پله مخه اوکړې ـ,../data/phti_valid_prepared/test/PHTI-MP-M-0043-12.png,2025-11-24T21:19:57,Sana
-PHTI-AW-F-0181-8,Orientation error,,0.8108108108108109,خدائے ته ظالم وئيل خبره د خِرد نه ګڼم,نر کر سره پې خل او مونو لررزل,../data/phti_valid_prepared/test/PHTI-AW-F-0181-8.png,2025-11-24T21:20:02,Sana
-PHTI-AW-F-0176-7,Orientation error,,0.8064516129032258,زمونږ وينې د چمن په شونډو خاندي,اږ با ما هې په لنو خله بل لزم,../data/phti_valid_prepared/test/PHTI-AW-F-0176-7.png,2025-11-24T21:20:04,Sana
-PHTI-AW-F-0174-8,Orientation error,,0.8,توبې اوباسمه توبې نۀ راځي,با ر مې هاکه ده ګلې لني,../data/phti_valid_prepared/test/PHTI-AW-F-0174-8.png,2025-11-24T21:20:05,Sana
-PHTI-AW-F-0183-3,Orientation error,,0.7941176470588235,ستا په شونډو کښې زما د وينو رنګ دے,با د دښې پښور ئې مه بر پومعوتې شوه,../data/phti_valid_prepared/test/PHTI-AW-F-0183-3.png,2025-11-24T21:20:05,Sana
-PHTI-AW-F-0184-4,Orientation error,,0.7857142857142857,لېونے سهي خو ووايه چې څنګ دے,ده د ا په ونن مولرے,../data/phti_valid_prepared/test/PHTI-AW-F-0184-4.png,2025-11-24T21:20:06,Sana
-PHTI-MP-M-0058-3,Valid but hard,label issue,0.7766990291262136,بس خوچې کم ظرفه دي دمساز نه شـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــي,بس خو چې کم ظرفه دې د ساز ته,../data/phti_valid_prepared/test/PHTI-MP-M-0058-3.png,2025-11-24T21:21:12,Sana
-PHTI-AW-F-0174-1,Orientation error,,0.7741935483870968,ما هم نن کاڼي تړلي په چيرړۍ کښې,يوومو کړي وي پي کړي لنه خې ږي,../data/phti_valid_prepared/test/PHTI-AW-F-0174-1.png,2025-11-24T21:21:16,Sana
-PHTI-AW-F-0184-2,Orientation error,,0.7692307692307693,د مرګ اواز مې د جانان عقيده نۀ کړه نوره,به در ده چ لو ارمه اانې ووم,../data/phti_valid_prepared/test/PHTI-AW-F-0184-2.png,2025-11-24T21:21:17,Sana
-PHTI-MP-M-0057-3,Valid but hard,label issue,0.7575757575757576,ټېک ده په خپل عقل کښې اسمان بــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــه وي,ټك ده په خپل عقل كښې اسمان,../data/phti_valid_prepared/test/PHTI-MP-M-0057-3.png,2025-11-24T21:21:45,Sana
-PHTI-AW-F-0169-2,Orientation error,,0.7567567567567568,د پښتنو په مينځ کښې کرښې لا ژورې شولې,تۀ مې ساګمو په پي کهې ده پرې سه کدي,../data/phti_valid_prepared/test/PHTI-AW-F-0169-2.png,2025-11-24T21:21:49,Sana
-PHTI-AW-F-0171-2,Orientation error,,0.75,کله ور ډوب دے په وحدت کله کثرت سنجوي,په رو بوګومې کښې کې پر ونۀ رړې,../data/phti_valid_prepared/test/PHTI-AW-F-0171-2.png,2025-11-24T21:21:51,Sana
-PHTI-AW-F-0181-2,Orientation error,,0.75,په هر لور باندې خوره چپه چپيا ده,دې دنې خينه نوړي په غانوړه شدي,../data/phti_valid_prepared/test/PHTI-AW-F-0181-2.png,2025-11-24T21:21:51,Sana
-PHTI-AW-F-0174-11,Orientation error,,0.7407407407407407,د زړۀ علاج به مې پخوا کړے ؤ,افله سې بې ده زوان بوم,../data/phti_valid_prepared/test/PHTI-AW-F-0174-11.png,2025-11-24T21:21:52,Sana
-PHTI-AF-F-0031-12,Wrong transcription,,0.74,دا زما انديوال وایی ته چپک يی او زه وایم ته چپک نه,یی نو اوس مونږ ستا څخه پوښتنه کوو چه په مونږ کی,../data/phti_valid_prepared/test/PHTI-AF-F-0031-12.png,2025-11-24T21:21:58,Sana
-PHTI-DM-F-0001-5,Orientation error,,0.7380952380952381,لري.او د حضور  سره د خوب د ملاقاتونو د يوې,ع داد اوسور ا سه  شنو,../data/phti_valid_prepared/test/PHTI-DM-F-0001-5.png,2025-11-24T21:22:02,Sana
-PHTI-AW-F-0196-4,Orientation error,,0.7333333333333333,چې د وېرې نه رښتيا وئيلے نۀ شي,با به زا سينت سه انو مړ شے,../data/phti_valid_prepared/test/PHTI-AW-F-0196-4.png,2025-11-24T21:22:03,Sana
-PHTI-AW-F-0181-9,Orientation error,,0.7297297297297297,د تقديرونو د کتاب نه مې ګيله پېدا شوه,پې ده غورو په ترسانر سونۀ شوه,../data/phti_valid_prepared/test/PHTI-AW-F-0181-9.png,2025-11-24T21:22:04,Sana
-PHTI-D3-M-0010-9,Wrong transcription,,0.7073170731707317,اخون دروېزه د دغه ګدائی زوے دے. ددۀ د مور,اخون دروېزه چې د علم خوند واخستو نو بيا ئې د ملا سيد,../data/phti_valid_prepared/test/PHTI-D3-M-0010-9.png,2025-11-24T21:22:22,Sana
-PHTI-AW-F-0174-6,Orientation error,,0.7,حسينان خو په دلو دي په نړۍ کښې,غده به ما د ني پ بې وړ وي,../data/phti_valid_prepared/test/PHTI-AW-F-0174-6.png,2025-11-24T21:22:25,Sana
-PHTI-DD-M-0030-6,Valid but hard,label issue,0.6944444444444444,درويشــــــت کــــــــــــــــــــــــــــــــــــــــاله ددۀ عمر اته نو,د رويشت خاله ددۀ عمرا ته نو,../data/phti_valid_prepared/test/PHTI-DD-M-0030-6.png,2025-11-24T21:22:46,Sana
-PHTI-AW-F-0171-9,Orientation error,,0.6923076923076923,د زړۀ په وينو ئې پاللي دي سرمست خيالونه,چ پې انو شوې د سې په م پي زل,../data/phti_valid_prepared/test/PHTI-AW-F-0171-9.png,2025-11-24T21:22:49,Sana
-PHTI-AW-F-0169-6,Orientation error,,0.6829268292682927,ستا په وفا باندې شک نۀ کووم په ځان ويرېږم,دنۀ پې ومي چه ويه په لن دي ځوانه ريوم,../data/phti_valid_prepared/test/PHTI-AW-F-0169-6.png,2025-11-24T21:22:51,Sana
-PHTI-JT-F-0478-2,Wrong transcription,,0.6666666666666666,ناصرعلی فارسی كلام، نمبر,ناصر علی، ديوان ناصرعلی فارسی كلام، نمبر,../data/phti_valid_prepared/test/PHTI-JT-F-0478-2.png,2025-11-24T21:23:09,Sana
-PHTI-SI-F-0085-8,Valid but hard,,0.6666666666666666,توئيږی,وتېږي,../data/phti_valid_prepared/test/PHTI-SI-F-0085-8.png,2025-11-24T21:23:14,Sana
-PHTI-PG-M-0013-5,Wrong transcription,,0.6666666666666666,ستا د اعضاء توازن،ستا د جمال بڅري,ستا د نازونو فني ګلي اورونۀ خرې,../data/phti_valid_prepared/test/PHTI-PG-M-0013-5.png,2025-11-24T21:23:23,Sana
-PHTI-AW-F-0188-3,Orientation error,,0.6666666666666666,زړۀ مې راټول وے څۀ خفګان مې نۀ وے,دمان مې دا ده شاۀ دار مومې شدے,../data/phti_valid_prepared/test/PHTI-AW-F-0188-3.png,2025-11-24T21:23:27,Sana
-PHTI-KT-M-0153-3,Valid but hard,label issue,0.6511627906976745,پـــه هـــــمــــت ســـــره  راپـــــاڅـــه,په همت سره دا پاڅه,../data/phti_valid_prepared/test/PHTI-KT-M-0153-3.png,2025-11-24T21:23:58,Sana
-PHTI-SP-M-0026-10,Wrong transcription,,0.6363636363636364,چې څوک خان بهادران  وو,څوک د ملک چې غداران وو,../data/phti_valid_prepared/test/PHTI-SP-M-0026-10.png,2025-11-24T21:24:25,Sana
-PHTI-PT-M-0006-8,Valid but hard,,0.6333333333333333,‏زمہ جانان مجلس د چہ سره کوینه,زمہ جانان مجلس د چہ سره کوینه‏ نا ناناهسه کوینه,../data/phti_valid_prepared/test/PHTI-PT-M-0006-8.png,2025-11-24T21:24:35,Sana
-PHTI-Y1-M-0001-11,Valid but hard,,0.6206896551724138,چې په واړه انبياؤ کښې بهتر دے,چې د ژوند د همه لارو ښۀ رهبر دے,../data/phti_valid_prepared/test/PHTI-Y1-M-0001-11.png,2025-11-24T21:24:40,Sana
-PHTI-MP-M-0002-5,Segmentation error,,0.6190476190476191,راكړه. دغه كتاب راله خدائے پاك داسې په ښه  موقع راواسته وۀ چې د چاپ نه وړاندې مونږ د,موقعه. دغه كتابه راله د خدائے پاك ډانسې په ښۀ,../data/phti_valid_prepared/test/PHTI-MP-M-0002-5.png,2025-11-24T21:24:46,Sana
-PHTI-AW-F-0171-5,Orientation error,,0.6153846153846154,دۀ د پښتو شمله کښې اېښے دے سور ګل د غزل,د د ايم کې کا داره کښې له غل دزل,../data/phti_valid_prepared/test/PHTI-AW-F-0171-5.png,2025-11-24T21:24:49,Sana
-PHTI-JT-F-0919-2,Valid but hard,,0.6111111111111112,د احساس يوه چپه ده,دا حساس يوه چپه دهداسچپه ده,../data/phti_valid_prepared/test/PHTI-JT-F-0919-2.png,2025-11-24T21:24:56,Sana
-PHTI-AW-F-0171-4,Orientation error,,0.6060606060606061,د هنر تږو له خواږۀ آبِ  غزل ورکوي,د ور زو چه مو کې دوه کده,../data/phti_valid_prepared/test/PHTI-AW-F-0171-4.png,2025-11-24T21:25:00,Sana
-PHTI-JT-F-0618-4,Valid but hard,,0.6,حوالې,حوالې ده,../data/phti_valid_prepared/test/PHTI-JT-F-0618-4.png,2025-11-24T21:25:04,Sana
-PHTI-AW-F-0205-10,Wrong transcription,,0.5757575757575758,اباسين هم په خپل حُسن ډېر غَره دےاباسين هم په خپل حُسن ډېر غَره دے,اباسين هم په خپل حُسن غره دے,../data/phti_valid_prepared/test/PHTI-AW-F-0205-10.png,2025-11-24T21:25:13,Sana
-PHTI-TT-M-0053-11,Wrong transcription,,0.5681818181818182,"""اګسټائن څۀ داسې وائي:""اګسټائن څۀ داسې وائي:","""اګستان څه داسې وائي:",../data/phti_valid_prepared/test/PHTI-TT-M-0053-11.png,2025-11-24T21:25:18,Sana
-PHTI-JB-F-0199-13,Wrong transcription,,0.5681818181818182,پۀ ملندرۍ غاښې دې ستړېپۀ ملندرۍ غاښې دې ستړې,پۀ ملندرې غاښى دې ’ستړى,../data/phti_valid_prepared/test/PHTI-JB-F-0199-13.png,2025-11-24T21:25:25,Sana
-PHTI-FT-M-0611-13,Wrong transcription,,0.5625,کښې  خېبر مجلې مدير مقررشوے وو ـکښې  خېبر مجلې مدير مقررشوے وو ـ,کښې خېبر مجلې مدير مقرر شوے ؤؤ,../data/phti_valid_prepared/test/PHTI-FT-M-0611-13.png,2025-11-24T21:25:27,Sana
-PHTI-HN-M-0022-8,Valid but hard,,0.5588235294117647,ســـتــا د غــمـو لــه بــرکــتــه,سستا له غموله بـکــ,../data/phti_valid_prepared/test/PHTI-HN-M-0022-8.png,2025-11-24T21:25:37,Sana
-PHTI-FT-M-0204-10,Wrong transcription,,0.5526315789473685,شوي دي هر کور سوزويشوي دي هر کور سوزوي,شوی دې هر کور سوزوي,../data/phti_valid_prepared/test/PHTI-FT-M-0204-10.png,2025-11-24T21:25:47,Sana
-PHTI-SP-M-0035-17,Wrong transcription,,0.5441176470588235,خدمت دې عبادت ګڼم  وطنه ستا بچے يمخدمت دې عبادت ګڼم  وطنه ستا بچے يم,خدمت دې  عبادت کړم وطنه  ستا بچے يم,../data/phti_valid_prepared/test/PHTI-SP-M-0035-17.png,2025-11-24T21:26:01,Sana
-PHTI-D3-M-0004-5,Wrong transcription,,0.5396825396825397,هسې په ظاهر صورت په مکر دے محکم هسې په ظاهر صورت په مکر دے محکم,هسې په ظاهر صورت په فکر دے محلم,../data/phti_valid_prepared/test/PHTI-D3-M-0004-5.png,2025-11-24T21:26:08,Sana
-PHTI-ST-M-0205-1,Wrong transcription,,0.5357142857142857,وهي به هر ظالموهي به هر ظالم,وهي به هسې ظالم,../data/phti_valid_prepared/test/PHTI-ST-M-0205-1.png,2025-11-24T21:26:22,Sana
-PHTI-JT-F-0423-3,Wrong transcription,,0.5344827586206896,د بڅرې په تاو خو د سړي ورک شيد بڅرې په تاو خو د سړي ورک شي,د بڅري په تا ؤ خو د سري ورک شي,../data/phti_valid_prepared/test/PHTI-JT-F-0423-3.png,2025-11-24T21:26:28,Sana
-PHTI-DM-F-0062-5,Wrong transcription,,0.5333333333333333,تعليمات دې ترقيامته دي بې مثلهتعليمات دې ترقيامته دي بې مثله,تقلييات ږي ته قيامته دي بې مثله,../data/phti_valid_prepared/test/PHTI-DM-F-0062-5.png,2025-11-24T21:26:37,Sana
-PHTI-FT-M-0285-8,Wrong transcription,label issue,0.53125,د الفاظو هېرپېر خو هډو لري نه ـ يو افاقي خيال دےد الفاظو هېرپېر خو هډو لري نه ـ يو افاقي خيال دے,د الفاظو هير پير خو هډو لري نه ، يو افاقې خيال دے,../data/phti_valid_prepared/test/PHTI-FT-M-0285-8.png,2025-11-24T21:26:43,Sana
-PHTI-ST-M-0205-11,Wrong transcription,,0.5277777777777778,هر کار يې عجائب ووهر کار يې عجائب وو,هر قار يې عجائب وو,../data/phti_valid_prepared/test/PHTI-ST-M-0205-11.png,2025-11-24T21:26:47,Sana
-PHTI-DM-F-0105-12,Wrong transcription,label issue,0.5256410256410257,اوس را له لار ټاکي د يون د مدينې يادونهاوس را له لار ټاکي د يون د مدينې يادونه,اوس راله لار ټاکي ديون د مدينې يادونه,../data/phti_valid_prepared/test/PHTI-DM-F-0105-12.png,2025-11-24T21:26:52,Sana
-PHTI-FT-M-0006-14,Wrong transcription,,0.525,نو په دې وجه د سوات معنى هغه زمکه چې نمرنو په دې وجه د سوات معنى هغه زمکه چې نمر,خو په  دې وجه د سوات معتي هغه زمکه چې نمر,../data/phti_valid_prepared/test/PHTI-FT-M-0006-14.png,2025-11-24T21:27:11,Sana
-PHTI-KT-M-0132-6,Wrong transcription,label issue,0.5227272727272727,فولاد،امير نواز خان جليا، غلام حېدر د دودسروفولاد،امير نواز خان جليا، غلام حېدر د دودسرو,فوراد ، امير نواز خان جليا، غلام حېدر د دور سرو،,../data/phti_valid_prepared/test/PHTI-KT-M-0132-6.png,2025-11-24T21:27:46,Sana
-PHTI-PT-M-0003-13,Wrong transcription,label issue,0.52,ګلابونو عطر چا شندلې دينهګلابونو عطر چا شندلې دينه,ګلابونو عطر چا شندلې دینه,../data/phti_valid_prepared/test/PHTI-PT-M-0003-13.png,2025-11-24T21:27:55,Sana
-PHTI-AW-F-0159-3,Valid but hard,,0.5185185185185185,د  ادب  د  څـڼـې    ول    ؤ,د ادب رڅڼې ولؤ,../data/phti_valid_prepared/test/PHTI-AW-F-0159-3.png,2025-11-24T21:28:04,Sana
-PHTI-DM-F-0060-6,Wrong transcription,label issue,0.5178571428571429,د ازل دي راروان د رڼا فېض دےد ازل دي راروان د رڼا فېض دے,دازل دې راروان د رڼا فېض دے,../data/phti_valid_prepared/test/PHTI-DM-F-0060-6.png,2025-11-24T21:28:11,Sana
-PHTI-PG-M-0023-14,Wrong transcription,label issue,0.5142857142857142,زما نه  نۀ هېږي ستا ليدو له هره ورځزما نه  نۀ هېږي ستا ليدو له هره ورځ,زما نه نۀ هېږي ستا ليدو له هره ورځ,../data/phti_valid_prepared/test/PHTI-PG-M-0023-14.png,2025-11-24T21:28:20,Sana
-PHTI-A1-F-0116-5,Wrong transcription,label issue,0.5131578947368421,که چرته پۀ خطا ئې هم ستا ور ته اوکاتۀپۀ خپله به دا خپلې سترګې اوباسم له ځانه,پۀ خپله به د خپلې سترګې او باسم له ځانه,../data/phti_valid_prepared/test/PHTI-A1-F-0116-5.png,2025-11-24T21:28:23,Sana
-PHTI-FT-M-0676-7,Wrong transcription,label issue,0.5125,کومې اداريې د خپل قلم نه ويستې دي هغه همکومې اداريې د خپل قلم نه ويستې دي هغه هم,کومې ادا يې د خپل قلم نه ويستي دي هغه هم,../data/phti_valid_prepared/test/PHTI-FT-M-0676-7.png,2025-11-24T21:28:31,Sana
-PHTI-DM-F-0064-6,Wrong transcription,label issue,0.5125,که څوک تور دے او که سپين دے او که سور دےکه څوک تور دے او که سپين دے او که سور دے,که څوک تو دے، او که سپين دے او که سور دے,../data/phti_valid_prepared/test/PHTI-DM-F-0064-6.png,2025-11-24T21:28:46,Sana
-PHTI-JT-F-0093-12,Wrong transcription,label issue,0.5111111111111111,دومره اوچت كړے شي څومره چې د يوې ترقيافته ژبېدومره اوچت كړے شي څومره چې د يوې ترقيافته ژبې,دومره اوچت كړے شی څومره چې د يوې ترقيافته ژبې,../data/phti_valid_prepared/test/PHTI-JT-F-0093-12.png,2025-11-24T21:28:52,Sana
-PHTI-KT-M-0070-9,Wrong transcription,label issue,0.5111111111111111,شاعرانو په شاعرۍ کښې هم عمراني فکر وجود لري ۔شاعرانو په شاعرۍ کښې هم عمراني فکر وجود لري ۔,شاعرانو په شاعرۍ کښې هم عمراني فکر وجود لري۔,../data/phti_valid_prepared/test/PHTI-KT-M-0070-9.png,2025-11-24T21:28:56,Sana
-PHTI-ST-M-0205-2,Wrong transcription,label issue,0.5,پرې نۀ ږدي يو غليمپرې نۀ ږدي يو غليم,پرې نۀ ږدي يو غليم,../data/phti_valid_prepared/test/PHTI-ST-M-0205-2.png,2025-11-24T21:29:02,Sana
-PHTI-DM-F-0101-15,Wrong transcription,label issue,0.5,دا په ما خو څۀ نااشنا غوندې حالاتدا په ما خو څۀ نااشنا غوندې حالات,دا په ما خو څه نااشنا غوندې حالات,../data/phti_valid_prepared/test/PHTI-DM-F-0101-15.png,2025-11-24T21:29:06,Sana
-PHTI-SP-M-0080-19,Valid but hard,,0.5,هم دې دنګ غرونه ښکلي,هم دې غوټۍ ښکلي دي,../data/phti_valid_prepared/test/PHTI-SP-M-0080-19.png,2025-11-24T21:29:11,Sana
-PHTI-JT-F-0842-14,Valid but hard,,0.5,مجھے جاناں,بجمے جا تان,../data/phti_valid_prepared/test/PHTI-JT-F-0842-14.png,2025-11-24T21:29:15,Sana
-PHTI-SP-M-0020-21,Wrong transcription,label issue,0.5,ستا سوکالۍ باندې مونږه ښاد يوستا سوکالۍ باندې مونږه ښاد يو,ستا سوکالي  باندې مونږ ښاد يو,../data/phti_valid_prepared/test/PHTI-SP-M-0020-21.png,2025-11-24T21:29:21,Sana
-PHTI-SP-M-0056-17,Wrong transcription,label issue,0.5,وطنه ستا مينه خپل پت ګڼموطنه ستا مينه خپل پت ګڼم,وطنه ستا مينه خپل پت ګيم,../data/phti_valid_prepared/test/PHTI-SP-M-0056-17.png,2025-11-24T21:32:47,Sana
-PHTI-AW-F-0180-12,Wrong transcription,label issue,0.5,د خوشحال خان قبر هم وجړقېدود خوشحال خان قبر هم وجړقېدو,د خوشحال خان قبر هم وجړقېدو,../data/phti_valid_prepared/test/PHTI-AW-F-0180-12.png,2025-11-24T21:32:51,Sana
-PHTI-SI-F-0128-9,Wrong transcription,label issue,0.5,لاړ شيلاړ شي,لاړ شي,../data/phti_valid_prepared/test/PHTI-SI-F-0128-9.png,2025-11-24T21:32:55,Sana
-PHTI-SI-F-0010-10,Wrong transcription,label issue,0.5,د نوښت د هنر بهيرونه هم لريد نوښت د هنر بهيرونه هم لري,د نوښت د هند بهيرو نه هم لري,../data/phti_valid_prepared/test/PHTI-SI-F-0010-10.png,2025-11-24T21:32:59,Sana
-PHTI-D4-M-0023-2,Segmentation error,,0.5,د قدرت حمد و ثنا کښې,دقدر ناکښې,../data/phti_valid_prepared/test/PHTI-D4-M-0023-2.png,2025-11-24T21:33:10,Sana
-PHTI-ST-M-0125-12,Wrong transcription,label issue,0.5,"که څوک وائی چه تالے دے""که څوک وائی چه مار دے","""که څوک وائی چه مار دے",../data/phti_valid_prepared/test/PHTI-ST-M-0125-12.png,2025-11-24T21:33:15,Sana
-PHTI-ST-M-0237-1,Wrong transcription,,0.5,کړي توځيځونه,اوکړل خو يونه,../data/phti_valid_prepared/test/PHTI-ST-M-0237-1.png,2025-11-24T21:33:22,Sana
-PHTI-RS-M-0081-16,Wrong transcription,label issue,0.5,دريابه څنګه څه پرې پوهه شولےدريابه څنګه څه پرې پوهه شولے,دريابه څنګه څه پرې پوهه شولے,../data/phti_valid_prepared/test/PHTI-RS-M-0081-16.png,2025-11-24T21:33:25,Sana
-PHTI-SI-F-0093-2,Valid but hard,,0.5,زاويو نه,زاوي,../data/phti_valid_prepared/test/PHTI-SI-F-0093-2.png,2025-11-24T21:33:29,Sana
-PHTI-AW-F-0141-5,Wrong transcription,label issue,0.5,په ژوند کښې هغه وخت د کار شي سړےپه ژوند کښې هغه وخت د کار شي سړے,په ژوند کښې هغه وخت د کار شي سړے,../data/phti_valid_prepared/test/PHTI-AW-F-0141-5.png,2025-11-24T21:33:36,Sana
-PHTI-AF-F-0027-15,Wrong transcription,label issue,0.5,خلک مې ټول تپوس له راغلهخلک مې ټول تپوس له راغله,خلک مې ټول تپوس له راغله,../data/phti_valid_prepared/test/PHTI-AF-F-0027-15.png,2025-11-24T21:33:42,Sana
-PHTI-RS-M-0093-18,Wrong transcription,label issue,0.5,بندي کس ترې خبر شوے نۀ دے لاړوبندي کس ترې خبر شوے نۀ دے لاړو,بندي کس تړې خبر شوے نۀ دے لاړو,../data/phti_valid_prepared/test/PHTI-RS-M-0093-18.png,2025-11-24T21:33:45,Sana
-PHTI-HN-M-0016-2,Valid but hard,,0.4848484848484848,ﺗﺎ ﺗﻪ یې نۀ ﻭﺍﯾﻢ ﭘر ﺯړۀ یې تېرﻭﻣﻪ,ته ته يې نۀ وایم پر زړۀ يې تې رومه,../data/phti_valid_prepared/test/PHTI-HN-M-0016-2.png,2025-11-24T21:33:49,Sana
-PHTI-PG-M-0024-17,Wrong transcription,label issue,0.4821428571428571,زما د پښو نه دې ساه اوويستلهزما د پښو نه دې ساه اوويستله,زما د پښتو نه دې ساه اوويستله,../data/phti_valid_prepared/test/PHTI-PG-M-0024-17.png,2025-11-24T21:33:57,Sana
-PHTI-SI-F-0252-10,Valid but hard,,0.4814814814814814,ژوند څه دے ؟ الميې دي الميې,ژونډ سے ده اليمې دې يم,../data/phti_valid_prepared/test/PHTI-SI-F-0252-10.png,2025-11-24T21:34:01,Sana
-PHTI-SP-M-0090-17,Wrong transcription,label issue,0.48,دلوئے عزت د برکت خاوره دهدلوئے عزت د برکت خاوره ده,د لوئے عزت د برکت خاوره ده,../data/phti_valid_prepared/test/PHTI-SP-M-0090-17.png,2025-11-24T21:34:06,Sana
-PHTI-AW-F-0068-5,Valid but hard,,0.4782608695652174,رهبر     او   رهنما  څۀ,د هبر اور دهنما څه,../data/phti_valid_prepared/test/PHTI-AW-F-0068-5.png,2025-11-24T21:34:13,Sana
-PHTI-SP-M-0091-14,Valid but hard,,0.475,پاکستان                (محمد سليم سليم ),پاکستان محمد سليم سلم,../data/phti_valid_prepared/test/PHTI-SP-M-0091-14.png,2025-11-24T21:34:20,Sana
-PHTI-AF-F-0045-16,Valid but hard,,0.4736842105263157,چی ستا نکاح سوی وی.,چې ستانعام شوې ده,../data/phti_valid_prepared/test/PHTI-AF-F-0045-16.png,2025-11-24T21:34:26,Sana
-PHTI-JT-F-0868-3,Valid but hard,,0.4705882352941176,ځان چې غونډوې نشم,خان بسې کونډوي که,../data/phti_valid_prepared/test/PHTI-JT-F-0868-3.png,2025-11-24T21:34:28,Sana
-PHTI-JT-F-0590-3,Valid but hard,,0.4666666666666667,اب د همه توكو لكه ټپې، چاربېتې,ادب دهه تر بولته يې چاريې,../data/phti_valid_prepared/test/PHTI-JT-F-0590-3.png,2025-11-24T21:34:32,Sana
-PHTI-JT-F-0419-5,Valid but hard,,0.4615384615384615,كردار اداكوی.,که دار ادا کوي.,../data/phti_valid_prepared/test/PHTI-JT-F-0419-5.png,2025-11-24T21:34:34,Sana
-PHTI-HN-M-0004-1,Valid but hard,,0.4615384615384615,څوک په وړه نې,څوک په وړه شان خهي,../data/phti_valid_prepared/test/PHTI-HN-M-0004-1.png,2025-11-24T21:34:53,Sana
-PHTI-KT-M-0101-5,Valid but hard,,0.45,دا  په    ريګونو     په    ګردونو    پټه,دا په رېلونو په لردو لو پټه,../data/phti_valid_prepared/test/PHTI-KT-M-0101-5.png,2025-11-24T21:34:58,Sana
-PHTI-JB-F-0050-10,Valid but hard,label issue,0.4444444444444444,بغیر تلمیح سمجھ میں نہیں آسکتی۔ اور,ہوئے بغیہ تلیح سمبج میں نیست اسکی اعر,../data/phti_valid_prepared/test/PHTI-JB-F-0050-10.png,2025-11-24T21:35:08,Sana
-PHTI-HN-M-0028-2,Valid but hard,,0.44,ہر   یوہ   وعدہ  دا   ستا,هر يوه وعده دا ستا,../data/phti_valid_prepared/test/PHTI-HN-M-0028-2.png,2025-11-24T21:35:12,Sana
-PHTI-JT-F-0016-13,Valid but hard,,0.4375,مدد دیتی ہیں اور,مددديتی، پس اور.,../data/phti_valid_prepared/test/PHTI-JT-F-0016-13.png,2025-11-24T21:35:14,Sana
-PHTI-SP-M-0037-4,Wrong transcription,,0.4375,تل ئې بت وي شملې,تل ئې ملک وي پټکي,../data/phti_valid_prepared/test/PHTI-SP-M-0037-4.png,2025-11-24T21:35:31,Sana
-PHTI-HL-M-0029-16,Valid but hard,,0.4363636363636363,وار په وار ئې تر تېغ تېر کړ  د خــــــــورم تمــا ټــبر,وار په وارۍ ته تيخ تېه کړل ـ  د حورم تماټېر,../data/phti_valid_prepared/test/PHTI-HL-M-0029-16.png,2025-11-24T21:35:44,Sana
-PHTI-AW-F-0103-7,Segmentation error,,0.4347826086956521,يار کېمل خېل په خوئ کښې,سې پو خپل پهخوۍ کښې,../data/phti_valid_prepared/test/PHTI-AW-F-0103-7.png,2025-11-24T21:35:48,Sana
-PHTI-KT-M-0155-2,Valid but hard,,0.4333333333333333,شــــې به ختـــمـــه زمـا ګُله,شي به ختمه زما ګله,../data/phti_valid_prepared/test/PHTI-KT-M-0155-2.png,2025-11-24T21:35:53,Sana
-PHTI-AZ-M-0027-1,Wrong transcription,,0.4193548387096774,هغه ما چې ورته پلونه دي جوړ کړي,هغوعا ماته پښو کښې ولونه دي جوړ کړي,../data/phti_valid_prepared/test/PHTI-AZ-M-0027-1.png,2025-11-25T06:06:12,Sana
-PHTI-JT-F-0728-16,Valid but hard,,0.4117647058823529,د بازنامې دا قلمی,و باز نامې داسې,../data/phti_valid_prepared/test/PHTI-JT-F-0728-16.png,2025-11-25T06:06:26,Sana
-PHTI-JB-F-0126-6,Valid but hard,,0.4074074074074074,چې کسکر يې کړې  کسرى وه، چې,چې کسکله په کړے کسری وه چې مې,../data/phti_valid_prepared/test/PHTI-JB-F-0126-6.png,2025-11-25T06:06:32,Sana
-PHTI-SP-M-0053-3,Valid but hard,,0.4054054054054054,چاربېته                (زخمي شينواري),چاربېته (زخمي شينواري),../data/phti_valid_prepared/test/PHTI-SP-M-0053-3.png,2025-11-25T06:06:35,Sana
-PHTI-SI-F-0034-3,Valid but hard,,0.4,کړو ـ,کړو,../data/phti_valid_prepared/test/PHTI-SI-F-0034-3.png,2025-11-25T06:06:37,Sana
-PHTI-SI-F-0014-3,Valid but hard,,0.4,هســـــــې هم له حـــــــــده   تېره راياديږي,هسې هم له حده تېره راياديږي,../data/phti_valid_prepared/test/PHTI-SI-F-0014-3.png,2025-11-25T06:06:45,Sana
-PHTI-D5-F-0035-9,Wrong transcription,,0.4,ليلٰى مجنون قصې لولي,ليلي' مجنون قصې لولې ’وايي,../data/phti_valid_prepared/test/PHTI-D5-F-0035-9.png,2025-11-25T06:06:57,Sana
-PHTI-SP-M-0090-13,Valid but hard,,0.4,نظم            (عابد خان جنون),م  (عابد خان جنون),../data/phti_valid_prepared/test/PHTI-SP-M-0090-13.png,2025-11-25T06:07:05,Sana
-PHTI-KT-M-0203-5,Valid but hard,,0.391304347826087,په    کينه   د    هغو    سترګو    راته    ګوري,په کښنه د هغو سترګو راته ګوري,../data/phti_valid_prepared/test/PHTI-KT-M-0203-5.png,2025-11-25T06:07:17,Sana
-PHTI-SI-F-0088-7,Valid but hard,,0.3888888888888889,په سپاندو کښې لوګي لوګي باڼه به درله,په سياوندو کښې کولې ګولقېا په درنه,../data/phti_valid_prepared/test/PHTI-SI-F-0088-7.png,2025-11-25T06:07:36,Sana
-PHTI-KT-M-0120-8,Valid but hard,,0.3863636363636363,د ا   منم   چې   ستا    خبرې    مې    يادېږي,دا منم چې ستا خبرې مې يازېږي,../data/phti_valid_prepared/test/PHTI-KT-M-0120-8.png,2025-11-25T06:07:46,Sana
-PHTI-JT-F-0250-3,Valid but hard,,0.3846153846153846,دغو نكاتو د بازنامې ډېر پټ,د غونكانو د باز نامې د پرېت,../data/phti_valid_prepared/test/PHTI-JT-F-0250-3.png,2025-11-25T06:07:56,Sana
-PHTI-KT-M-0203-3,Valid but hard,,0.3829787234042553,دا   مې   زرۀ   د   يار   د   غم   سره   لوڅيږي,دا مې زړۀ د يار د غم سره نوڅيږي,../data/phti_valid_prepared/test/PHTI-KT-M-0203-3.png,2025-11-25T06:08:16,Sana
-PHTI-PL-F-0013-13,Valid but hard,,0.3823529411764705,نـــه رهررو شـــوې نـــــه رهبر ۲۷,نه رهررو شوې نه رهبر ۲۱۸,../data/phti_valid_prepared/test/PHTI-PL-F-0013-13.png,2025-11-25T06:08:22,Sana
-PHTI-SP-M-0058-7,Valid but hard,,0.38,وطن زمونږ جنت دے                  (عبېد الله عابد),وطن زمونږ جنت دے (عبيدالله عابد),../data/phti_valid_prepared/test/PHTI-SP-M-0058-7.png,2025-11-25T06:08:26,Sana
-PHTI-JB-F-0261-6,Valid but hard,,0.3793103448275862,بغاوت وکړو. قام د شاه شجاع نه,بغاوت وکړو ـ  قام د شام د شاه نجال نه,../data/phti_valid_prepared/test/PHTI-JB-F-0261-6.png,2025-11-25T06:08:38,Sana
-PHTI-SP-M-0060-2,Valid but hard,,0.375,زمونږ ډهارس امېد,شنزمونږ د مارس اميد,../data/phti_valid_prepared/test/PHTI-SP-M-0060-2.png,2025-11-25T06:08:40,Sana
-PHTI-JT-F-0843-1,Valid but hard,,0.375,څك چې بې,څوک چې بس,../data/phti_valid_prepared/test/PHTI-JT-F-0843-1.png,2025-11-25T06:08:42,Sana
-PHTI-AW-F-0068-4,Valid but hard,,0.3714285714285714,ټول   په    خپلو   لارو     زغلو	په,ټول په خپلو لارو رغلو په,../data/phti_valid_prepared/test/PHTI-AW-F-0068-4.png,2025-11-25T06:08:45,Sana
-PHTI-SI-F-0219-5,Valid but hard,,0.3666666666666666,مينې ، يارۍ، دوستۍ به کيږي سره,مينۍ پارې دوستۍ به کښې ګې سره,../data/phti_valid_prepared/test/PHTI-SI-F-0219-5.png,2025-11-25T06:08:53,Sana
+﻿ImageID,Label,Notes,CER,GroundTruth,Prediction,ImagePath,Timestamp
+PHTI-JT-F-0201-1,Wrong transcription,,0.9230769230769232,شورى شعور او ژوند او فکر د رڼا غرځولو هڅه شوې ده.چرته چرته د شعرى,۵ ١٩٩ډه د ۲۰۰۰ء,../data/phti_valid_prepared/test/PHTI-JT-F-0201-1.png,2025-11-24T21:19:44
+PHTI-AF-F-0023-14,Segmentation error,,0.8421052631578947,نه مې يار يار شو نه يې خلاص د غمه شومه,ينم زام ن,../data/phti_valid_prepared/test/PHTI-AF-F-0023-14.png,2025-11-24T21:19:48
+PHTI-MP-M-0043-12,Wrong transcription,,0.8153846153846154,د ايران بادشاه شاه طهماسپ دۀ له فوځی کمک ورکړو ـ  او دے د حملې په,غرضا راروان شو ـ وړمبے ئې کابل فتح کړو ـ  بيا ئې پنجاب پله مخه اوکړې ـ,../data/phti_valid_prepared/test/PHTI-MP-M-0043-12.png,2025-11-24T21:19:57
+PHTI-AW-F-0181-8,Orientation error,,0.8108108108108109,خدائے ته ظالم وئيل خبره د خِرد نه ګڼم,نر کر سره پې خل او مونو لررزل,../data/phti_valid_prepared/test/PHTI-AW-F-0181-8.png,2025-11-24T21:20:02
+PHTI-AW-F-0176-7,Orientation error,,0.8064516129032258,زمونږ وينې د چمن په شونډو خاندي,اږ با ما هې په لنو خله بل لزم,../data/phti_valid_prepared/test/PHTI-AW-F-0176-7.png,2025-11-24T21:20:04
+PHTI-AW-F-0174-8,Orientation error,,0.8,توبې اوباسمه توبې نۀ راځي,با ر مې هاکه ده ګلې لني,../data/phti_valid_prepared/test/PHTI-AW-F-0174-8.png,2025-11-24T21:20:05
+PHTI-AW-F-0183-3,Orientation error,,0.7941176470588235,ستا په شونډو کښې زما د وينو رنګ دے,با د دښې پښور ئې مه بر پومعوتې شوه,../data/phti_valid_prepared/test/PHTI-AW-F-0183-3.png,2025-11-24T21:20:05
+PHTI-AW-F-0184-4,Orientation error,,0.7857142857142857,لېونے سهي خو ووايه چې څنګ دے,ده د ا په ونن مولرے,../data/phti_valid_prepared/test/PHTI-AW-F-0184-4.png,2025-11-24T21:20:06
+PHTI-MP-M-0058-3,Valid but hard,label issue,0.7766990291262136,بس خوچې کم ظرفه دي دمساز نه شـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــي,بس خو چې کم ظرفه دې د ساز ته,../data/phti_valid_prepared/test/PHTI-MP-M-0058-3.png,2025-11-24T21:21:12
+PHTI-AW-F-0174-1,Orientation error,,0.7741935483870968,ما هم نن کاڼي تړلي په چيرړۍ کښې,يوومو کړي وي پي کړي لنه خې ږي,../data/phti_valid_prepared/test/PHTI-AW-F-0174-1.png,2025-11-24T21:21:16
+PHTI-AW-F-0184-2,Orientation error,,0.7692307692307693,د مرګ اواز مې د جانان عقيده نۀ کړه نوره,به در ده چ لو ارمه اانې ووم,../data/phti_valid_prepared/test/PHTI-AW-F-0184-2.png,2025-11-24T21:21:17
+PHTI-MP-M-0057-3,Valid but hard,label issue,0.7575757575757576,ټېک ده په خپل عقل کښې اسمان بــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــه وي,ټك ده په خپل عقل كښې اسمان,../data/phti_valid_prepared/test/PHTI-MP-M-0057-3.png,2025-11-24T21:21:45
+PHTI-AW-F-0169-2,Orientation error,,0.7567567567567568,د پښتنو په مينځ کښې کرښې لا ژورې شولې,تۀ مې ساګمو په پي کهې ده پرې سه کدي,../data/phti_valid_prepared/test/PHTI-AW-F-0169-2.png,2025-11-24T21:21:49
+PHTI-AW-F-0171-2,Orientation error,,0.75,کله ور ډوب دے په وحدت کله کثرت سنجوي,په رو بوګومې کښې کې پر ونۀ رړې,../data/phti_valid_prepared/test/PHTI-AW-F-0171-2.png,2025-11-24T21:21:51
+PHTI-AW-F-0181-2,Orientation error,,0.75,په هر لور باندې خوره چپه چپيا ده,دې دنې خينه نوړي په غانوړه شدي,../data/phti_valid_prepared/test/PHTI-AW-F-0181-2.png,2025-11-24T21:21:51
+PHTI-AW-F-0174-11,Orientation error,,0.7407407407407407,د زړۀ علاج به مې پخوا کړے ؤ,افله سې بې ده زوان بوم,../data/phti_valid_prepared/test/PHTI-AW-F-0174-11.png,2025-11-24T21:21:52
+PHTI-AF-F-0031-12,Wrong transcription,,0.74,دا زما انديوال وایی ته چپک يی او زه وایم ته چپک نه,یی نو اوس مونږ ستا څخه پوښتنه کوو چه په مونږ کی,../data/phti_valid_prepared/test/PHTI-AF-F-0031-12.png,2025-11-24T21:21:58
+PHTI-DM-F-0001-5,Orientation error,,0.7380952380952381,لري.او د حضور  سره د خوب د ملاقاتونو د يوې,ع داد اوسور ا سه  شنو,../data/phti_valid_prepared/test/PHTI-DM-F-0001-5.png,2025-11-24T21:22:02
+PHTI-AW-F-0196-4,Orientation error,,0.7333333333333333,چې د وېرې نه رښتيا وئيلے نۀ شي,با به زا سينت سه انو مړ شے,../data/phti_valid_prepared/test/PHTI-AW-F-0196-4.png,2025-11-24T21:22:03
+PHTI-AW-F-0181-9,Orientation error,,0.7297297297297297,د تقديرونو د کتاب نه مې ګيله پېدا شوه,پې ده غورو په ترسانر سونۀ شوه,../data/phti_valid_prepared/test/PHTI-AW-F-0181-9.png,2025-11-24T21:22:04
+PHTI-D3-M-0010-9,Wrong transcription,,0.7073170731707317,اخون دروېزه د دغه ګدائی زوے دے. ددۀ د مور,اخون دروېزه چې د علم خوند واخستو نو بيا ئې د ملا سيد,../data/phti_valid_prepared/test/PHTI-D3-M-0010-9.png,2025-11-24T21:22:22
+PHTI-AW-F-0174-6,Orientation error,,0.7,حسينان خو په دلو دي په نړۍ کښې,غده به ما د ني پ بې وړ وي,../data/phti_valid_prepared/test/PHTI-AW-F-0174-6.png,2025-11-24T21:22:25
+PHTI-DD-M-0030-6,Valid but hard,label issue,0.6944444444444444,درويشــــــت کــــــــــــــــــــــــــــــــــــــــاله ددۀ عمر اته نو,د رويشت خاله ددۀ عمرا ته نو,../data/phti_valid_prepared/test/PHTI-DD-M-0030-6.png,2025-11-24T21:22:46
+PHTI-AW-F-0171-9,Orientation error,,0.6923076923076923,د زړۀ په وينو ئې پاللي دي سرمست خيالونه,چ پې انو شوې د سې په م پي زل,../data/phti_valid_prepared/test/PHTI-AW-F-0171-9.png,2025-11-24T21:22:49
+PHTI-AW-F-0169-6,Orientation error,,0.6829268292682927,ستا په وفا باندې شک نۀ کووم په ځان ويرېږم,دنۀ پې ومي چه ويه په لن دي ځوانه ريوم,../data/phti_valid_prepared/test/PHTI-AW-F-0169-6.png,2025-11-24T21:22:51
+PHTI-JT-F-0478-2,Wrong transcription,,0.6666666666666666,ناصرعلی فارسی كلام، نمبر,ناصر علی، ديوان ناصرعلی فارسی كلام، نمبر,../data/phti_valid_prepared/test/PHTI-JT-F-0478-2.png,2025-11-24T21:23:09
+PHTI-SI-F-0085-8,Valid but hard,,0.6666666666666666,توئيږی,وتېږي,../data/phti_valid_prepared/test/PHTI-SI-F-0085-8.png,2025-11-24T21:23:14
+PHTI-PG-M-0013-5,Wrong transcription,,0.6666666666666666,ستا د اعضاء توازن،ستا د جمال بڅري,ستا د نازونو فني ګلي اورونۀ خرې,../data/phti_valid_prepared/test/PHTI-PG-M-0013-5.png,2025-11-24T21:23:23
+PHTI-AW-F-0188-3,Orientation error,,0.6666666666666666,زړۀ مې راټول وے څۀ خفګان مې نۀ وے,دمان مې دا ده شاۀ دار مومې شدے,../data/phti_valid_prepared/test/PHTI-AW-F-0188-3.png,2025-11-24T21:23:27
+PHTI-KT-M-0153-3,Valid but hard,label issue,0.6511627906976745,پـــه هـــــمــــت ســـــره  راپـــــاڅـــه,په همت سره دا پاڅه,../data/phti_valid_prepared/test/PHTI-KT-M-0153-3.png,2025-11-24T21:23:58
+PHTI-SP-M-0026-10,Wrong transcription,,0.6363636363636364,چې څوک خان بهادران  وو,څوک د ملک چې غداران وو,../data/phti_valid_prepared/test/PHTI-SP-M-0026-10.png,2025-11-24T21:24:25
+PHTI-PT-M-0006-8,Valid but hard,,0.6333333333333333,‏زمہ جانان مجلس د چہ سره کوینه,زمہ جانان مجلس د چہ سره کوینه‏ نا ناناهسه کوینه,../data/phti_valid_prepared/test/PHTI-PT-M-0006-8.png,2025-11-24T21:24:35
+PHTI-Y1-M-0001-11,Valid but hard,,0.6206896551724138,چې په واړه انبياؤ کښې بهتر دے,چې د ژوند د همه لارو ښۀ رهبر دے,../data/phti_valid_prepared/test/PHTI-Y1-M-0001-11.png,2025-11-24T21:24:40
+PHTI-MP-M-0002-5,Segmentation error,,0.6190476190476191,راكړه. دغه كتاب راله خدائے پاك داسې په ښه  موقع راواسته وۀ چې د چاپ نه وړاندې مونږ د,موقعه. دغه كتابه راله د خدائے پاك ډانسې په ښۀ,../data/phti_valid_prepared/test/PHTI-MP-M-0002-5.png,2025-11-24T21:24:46
+PHTI-AW-F-0171-5,Orientation error,,0.6153846153846154,دۀ د پښتو شمله کښې اېښے دے سور ګل د غزل,د د ايم کې کا داره کښې له غل دزل,../data/phti_valid_prepared/test/PHTI-AW-F-0171-5.png,2025-11-24T21:24:49
+PHTI-JT-F-0919-2,Valid but hard,,0.6111111111111112,د احساس يوه چپه ده,دا حساس يوه چپه دهداسچپه ده,../data/phti_valid_prepared/test/PHTI-JT-F-0919-2.png,2025-11-24T21:24:56
+PHTI-AW-F-0171-4,Orientation error,,0.6060606060606061,د هنر تږو له خواږۀ آبِ  غزل ورکوي,د ور زو چه مو کې دوه کده,../data/phti_valid_prepared/test/PHTI-AW-F-0171-4.png,2025-11-24T21:25:00
+PHTI-JT-F-0618-4,Valid but hard,,0.6,حوالې,حوالې ده,../data/phti_valid_prepared/test/PHTI-JT-F-0618-4.png,2025-11-24T21:25:04
+PHTI-AW-F-0205-10,Wrong transcription,,0.5757575757575758,اباسين هم په خپل حُسن ډېر غَره دےاباسين هم په خپل حُسن ډېر غَره دے,اباسين هم په خپل حُسن غره دے,../data/phti_valid_prepared/test/PHTI-AW-F-0205-10.png,2025-11-24T21:25:13
+PHTI-TT-M-0053-11,Wrong transcription,,0.5681818181818182,"""اګسټائن څۀ داسې وائي:""اګسټائن څۀ داسې وائي:","""اګستان څه داسې وائي:",../data/phti_valid_prepared/test/PHTI-TT-M-0053-11.png,2025-11-24T21:25:18
+PHTI-JB-F-0199-13,Wrong transcription,,0.5681818181818182,پۀ ملندرۍ غاښې دې ستړېپۀ ملندرۍ غاښې دې ستړې,پۀ ملندرې غاښى دې ’ستړى,../data/phti_valid_prepared/test/PHTI-JB-F-0199-13.png,2025-11-24T21:25:25
+PHTI-FT-M-0611-13,Wrong transcription,,0.5625,کښې  خېبر مجلې مدير مقررشوے وو ـکښې  خېبر مجلې مدير مقررشوے وو ـ,کښې خېبر مجلې مدير مقرر شوے ؤؤ,../data/phti_valid_prepared/test/PHTI-FT-M-0611-13.png,2025-11-24T21:25:27
+PHTI-HN-M-0022-8,Valid but hard,,0.5588235294117647,ســـتــا د غــمـو لــه بــرکــتــه,سستا له غموله بـکــ,../data/phti_valid_prepared/test/PHTI-HN-M-0022-8.png,2025-11-24T21:25:37
+PHTI-FT-M-0204-10,Wrong transcription,,0.5526315789473685,شوي دي هر کور سوزويشوي دي هر کور سوزوي,شوی دې هر کور سوزوي,../data/phti_valid_prepared/test/PHTI-FT-M-0204-10.png,2025-11-24T21:25:47
+PHTI-SP-M-0035-17,Wrong transcription,,0.5441176470588235,خدمت دې عبادت ګڼم  وطنه ستا بچے يمخدمت دې عبادت ګڼم  وطنه ستا بچے يم,خدمت دې  عبادت کړم وطنه  ستا بچے يم,../data/phti_valid_prepared/test/PHTI-SP-M-0035-17.png,2025-11-24T21:26:01
+PHTI-D3-M-0004-5,Wrong transcription,,0.5396825396825397,هسې په ظاهر صورت په مکر دے محکم هسې په ظاهر صورت په مکر دے محکم,هسې په ظاهر صورت په فکر دے محلم,../data/phti_valid_prepared/test/PHTI-D3-M-0004-5.png,2025-11-24T21:26:08
+PHTI-ST-M-0205-1,Wrong transcription,,0.5357142857142857,وهي به هر ظالموهي به هر ظالم,وهي به هسې ظالم,../data/phti_valid_prepared/test/PHTI-ST-M-0205-1.png,2025-11-24T21:26:22
+PHTI-JT-F-0423-3,Wrong transcription,,0.5344827586206896,د بڅرې په تاو خو د سړي ورک شيد بڅرې په تاو خو د سړي ورک شي,د بڅري په تا ؤ خو د سري ورک شي,../data/phti_valid_prepared/test/PHTI-JT-F-0423-3.png,2025-11-24T21:26:28
+PHTI-DM-F-0062-5,Wrong transcription,,0.5333333333333333,تعليمات دې ترقيامته دي بې مثلهتعليمات دې ترقيامته دي بې مثله,تقلييات ږي ته قيامته دي بې مثله,../data/phti_valid_prepared/test/PHTI-DM-F-0062-5.png,2025-11-24T21:26:37
+PHTI-FT-M-0285-8,Wrong transcription,label issue,0.53125,د الفاظو هېرپېر خو هډو لري نه ـ يو افاقي خيال دےد الفاظو هېرپېر خو هډو لري نه ـ يو افاقي خيال دے,د الفاظو هير پير خو هډو لري نه ، يو افاقې خيال دے,../data/phti_valid_prepared/test/PHTI-FT-M-0285-8.png,2025-11-24T21:26:43
+PHTI-ST-M-0205-11,Wrong transcription,,0.5277777777777778,هر کار يې عجائب ووهر کار يې عجائب وو,هر قار يې عجائب وو,../data/phti_valid_prepared/test/PHTI-ST-M-0205-11.png,2025-11-24T21:26:47
+PHTI-DM-F-0105-12,Wrong transcription,label issue,0.5256410256410257,اوس را له لار ټاکي د يون د مدينې يادونهاوس را له لار ټاکي د يون د مدينې يادونه,اوس راله لار ټاکي ديون د مدينې يادونه,../data/phti_valid_prepared/test/PHTI-DM-F-0105-12.png,2025-11-24T21:26:52
+PHTI-FT-M-0006-14,Wrong transcription,,0.525,نو په دې وجه د سوات معنى هغه زمکه چې نمرنو په دې وجه د سوات معنى هغه زمکه چې نمر,خو په  دې وجه د سوات معتي هغه زمکه چې نمر,../data/phti_valid_prepared/test/PHTI-FT-M-0006-14.png,2025-11-24T21:27:11
+PHTI-KT-M-0132-6,Wrong transcription,label issue,0.5227272727272727,فولاد،امير نواز خان جليا، غلام حېدر د دودسروفولاد،امير نواز خان جليا، غلام حېدر د دودسرو,فوراد ، امير نواز خان جليا، غلام حېدر د دور سرو،,../data/phti_valid_prepared/test/PHTI-KT-M-0132-6.png,2025-11-24T21:27:46
+PHTI-PT-M-0003-13,Wrong transcription,label issue,0.52,ګلابونو عطر چا شندلې دينهګلابونو عطر چا شندلې دينه,ګلابونو عطر چا شندلې دینه,../data/phti_valid_prepared/test/PHTI-PT-M-0003-13.png,2025-11-24T21:27:55
+PHTI-AW-F-0159-3,Valid but hard,,0.5185185185185185,د  ادب  د  څـڼـې    ول    ؤ,د ادب رڅڼې ولؤ,../data/phti_valid_prepared/test/PHTI-AW-F-0159-3.png,2025-11-24T21:28:04
+PHTI-DM-F-0060-6,Wrong transcription,label issue,0.5178571428571429,د ازل دي راروان د رڼا فېض دےد ازل دي راروان د رڼا فېض دے,دازل دې راروان د رڼا فېض دے,../data/phti_valid_prepared/test/PHTI-DM-F-0060-6.png,2025-11-24T21:28:11
+PHTI-PG-M-0023-14,Wrong transcription,label issue,0.5142857142857142,زما نه  نۀ هېږي ستا ليدو له هره ورځزما نه  نۀ هېږي ستا ليدو له هره ورځ,زما نه نۀ هېږي ستا ليدو له هره ورځ,../data/phti_valid_prepared/test/PHTI-PG-M-0023-14.png,2025-11-24T21:28:20
+PHTI-A1-F-0116-5,Wrong transcription,label issue,0.5131578947368421,که چرته پۀ خطا ئې هم ستا ور ته اوکاتۀپۀ خپله به دا خپلې سترګې اوباسم له ځانه,پۀ خپله به د خپلې سترګې او باسم له ځانه,../data/phti_valid_prepared/test/PHTI-A1-F-0116-5.png,2025-11-24T21:28:23
+PHTI-FT-M-0676-7,Wrong transcription,label issue,0.5125,کومې اداريې د خپل قلم نه ويستې دي هغه همکومې اداريې د خپل قلم نه ويستې دي هغه هم,کومې ادا يې د خپل قلم نه ويستي دي هغه هم,../data/phti_valid_prepared/test/PHTI-FT-M-0676-7.png,2025-11-24T21:28:31
+PHTI-DM-F-0064-6,Wrong transcription,label issue,0.5125,که څوک تور دے او که سپين دے او که سور دےکه څوک تور دے او که سپين دے او که سور دے,که څوک تو دے، او که سپين دے او که سور دے,../data/phti_valid_prepared/test/PHTI-DM-F-0064-6.png,2025-11-24T21:28:46
+PHTI-JT-F-0093-12,Wrong transcription,label issue,0.5111111111111111,دومره اوچت كړے شي څومره چې د يوې ترقيافته ژبېدومره اوچت كړے شي څومره چې د يوې ترقيافته ژبې,دومره اوچت كړے شی څومره چې د يوې ترقيافته ژبې,../data/phti_valid_prepared/test/PHTI-JT-F-0093-12.png,2025-11-24T21:28:52
+PHTI-KT-M-0070-9,Wrong transcription,label issue,0.5111111111111111,شاعرانو په شاعرۍ کښې هم عمراني فکر وجود لري ۔شاعرانو په شاعرۍ کښې هم عمراني فکر وجود لري ۔,شاعرانو په شاعرۍ کښې هم عمراني فکر وجود لري۔,../data/phti_valid_prepared/test/PHTI-KT-M-0070-9.png,2025-11-24T21:28:56
+PHTI-ST-M-0205-2,Wrong transcription,label issue,0.5,پرې نۀ ږدي يو غليمپرې نۀ ږدي يو غليم,پرې نۀ ږدي يو غليم,../data/phti_valid_prepared/test/PHTI-ST-M-0205-2.png,2025-11-24T21:29:02
+PHTI-DM-F-0101-15,Wrong transcription,label issue,0.5,دا په ما خو څۀ نااشنا غوندې حالاتدا په ما خو څۀ نااشنا غوندې حالات,دا په ما خو څه نااشنا غوندې حالات,../data/phti_valid_prepared/test/PHTI-DM-F-0101-15.png,2025-11-24T21:29:06
+PHTI-SP-M-0080-19,Valid but hard,,0.5,هم دې دنګ غرونه ښکلي,هم دې غوټۍ ښکلي دي,../data/phti_valid_prepared/test/PHTI-SP-M-0080-19.png,2025-11-24T21:29:11
+PHTI-JT-F-0842-14,Valid but hard,,0.5,مجھے جاناں,بجمے جا تان,../data/phti_valid_prepared/test/PHTI-JT-F-0842-14.png,2025-11-24T21:29:15
+PHTI-SP-M-0020-21,Wrong transcription,label issue,0.5,ستا سوکالۍ باندې مونږه ښاد يوستا سوکالۍ باندې مونږه ښاد يو,ستا سوکالي  باندې مونږ ښاد يو,../data/phti_valid_prepared/test/PHTI-SP-M-0020-21.png,2025-11-24T21:29:21
+PHTI-SP-M-0056-17,Wrong transcription,label issue,0.5,وطنه ستا مينه خپل پت ګڼموطنه ستا مينه خپل پت ګڼم,وطنه ستا مينه خپل پت ګيم,../data/phti_valid_prepared/test/PHTI-SP-M-0056-17.png,2025-11-24T21:32:47
+PHTI-AW-F-0180-12,Wrong transcription,label issue,0.5,د خوشحال خان قبر هم وجړقېدود خوشحال خان قبر هم وجړقېدو,د خوشحال خان قبر هم وجړقېدو,../data/phti_valid_prepared/test/PHTI-AW-F-0180-12.png,2025-11-24T21:32:51
+PHTI-SI-F-0128-9,Wrong transcription,label issue,0.5,لاړ شيلاړ شي,لاړ شي,../data/phti_valid_prepared/test/PHTI-SI-F-0128-9.png,2025-11-24T21:32:55
+PHTI-SI-F-0010-10,Wrong transcription,label issue,0.5,د نوښت د هنر بهيرونه هم لريد نوښت د هنر بهيرونه هم لري,د نوښت د هند بهيرو نه هم لري,../data/phti_valid_prepared/test/PHTI-SI-F-0010-10.png,2025-11-24T21:32:59
+PHTI-D4-M-0023-2,Segmentation error,,0.5,د قدرت حمد و ثنا کښې,دقدر ناکښې,../data/phti_valid_prepared/test/PHTI-D4-M-0023-2.png,2025-11-24T21:33:10
+PHTI-ST-M-0125-12,Wrong transcription,label issue,0.5,"که څوک وائی چه تالے دے""که څوک وائی چه مار دے","""که څوک وائی چه مار دے",../data/phti_valid_prepared/test/PHTI-ST-M-0125-12.png,2025-11-24T21:33:15
+PHTI-ST-M-0237-1,Wrong transcription,,0.5,کړي توځيځونه,اوکړل خو يونه,../data/phti_valid_prepared/test/PHTI-ST-M-0237-1.png,2025-11-24T21:33:22
+PHTI-RS-M-0081-16,Wrong transcription,label issue,0.5,دريابه څنګه څه پرې پوهه شولےدريابه څنګه څه پرې پوهه شولے,دريابه څنګه څه پرې پوهه شولے,../data/phti_valid_prepared/test/PHTI-RS-M-0081-16.png,2025-11-24T21:33:25
+PHTI-SI-F-0093-2,Valid but hard,,0.5,زاويو نه,زاوي,../data/phti_valid_prepared/test/PHTI-SI-F-0093-2.png,2025-11-24T21:33:29
+PHTI-AW-F-0141-5,Wrong transcription,label issue,0.5,په ژوند کښې هغه وخت د کار شي سړےپه ژوند کښې هغه وخت د کار شي سړے,په ژوند کښې هغه وخت د کار شي سړے,../data/phti_valid_prepared/test/PHTI-AW-F-0141-5.png,2025-11-24T21:33:36
+PHTI-AF-F-0027-15,Wrong transcription,label issue,0.5,خلک مې ټول تپوس له راغلهخلک مې ټول تپوس له راغله,خلک مې ټول تپوس له راغله,../data/phti_valid_prepared/test/PHTI-AF-F-0027-15.png,2025-11-24T21:33:42
+PHTI-RS-M-0093-18,Wrong transcription,label issue,0.5,بندي کس ترې خبر شوے نۀ دے لاړوبندي کس ترې خبر شوے نۀ دے لاړو,بندي کس تړې خبر شوے نۀ دے لاړو,../data/phti_valid_prepared/test/PHTI-RS-M-0093-18.png,2025-11-24T21:33:45
+PHTI-HN-M-0016-2,Valid but hard,,0.4848484848484848,ﺗﺎ ﺗﻪ یې نۀ ﻭﺍﯾﻢ ﭘر ﺯړۀ یې تېرﻭﻣﻪ,ته ته يې نۀ وایم پر زړۀ يې تې رومه,../data/phti_valid_prepared/test/PHTI-HN-M-0016-2.png,2025-11-24T21:33:49
+PHTI-PG-M-0024-17,Wrong transcription,label issue,0.4821428571428571,زما د پښو نه دې ساه اوويستلهزما د پښو نه دې ساه اوويستله,زما د پښتو نه دې ساه اوويستله,../data/phti_valid_prepared/test/PHTI-PG-M-0024-17.png,2025-11-24T21:33:57
+PHTI-SI-F-0252-10,Valid but hard,,0.4814814814814814,ژوند څه دے ؟ الميې دي الميې,ژونډ سے ده اليمې دې يم,../data/phti_valid_prepared/test/PHTI-SI-F-0252-10.png,2025-11-24T21:34:01
+PHTI-SP-M-0090-17,Wrong transcription,label issue,0.48,دلوئے عزت د برکت خاوره دهدلوئے عزت د برکت خاوره ده,د لوئے عزت د برکت خاوره ده,../data/phti_valid_prepared/test/PHTI-SP-M-0090-17.png,2025-11-24T21:34:06
+PHTI-AW-F-0068-5,Valid but hard,,0.4782608695652174,رهبر     او   رهنما  څۀ,د هبر اور دهنما څه,../data/phti_valid_prepared/test/PHTI-AW-F-0068-5.png,2025-11-24T21:34:13
+PHTI-SP-M-0091-14,Valid but hard,,0.475,پاکستان                (محمد سليم سليم ),پاکستان محمد سليم سلم,../data/phti_valid_prepared/test/PHTI-SP-M-0091-14.png,2025-11-24T21:34:20
+PHTI-AF-F-0045-16,Valid but hard,,0.4736842105263157,چی ستا نکاح سوی وی.,چې ستانعام شوې ده,../data/phti_valid_prepared/test/PHTI-AF-F-0045-16.png,2025-11-24T21:34:26
+PHTI-JT-F-0868-3,Valid but hard,,0.4705882352941176,ځان چې غونډوې نشم,خان بسې کونډوي که,../data/phti_valid_prepared/test/PHTI-JT-F-0868-3.png,2025-11-24T21:34:28
+PHTI-JT-F-0590-3,Valid but hard,,0.4666666666666667,اب د همه توكو لكه ټپې، چاربېتې,ادب دهه تر بولته يې چاريې,../data/phti_valid_prepared/test/PHTI-JT-F-0590-3.png,2025-11-24T21:34:32
+PHTI-JT-F-0419-5,Valid but hard,,0.4615384615384615,كردار اداكوی.,که دار ادا کوي.,../data/phti_valid_prepared/test/PHTI-JT-F-0419-5.png,2025-11-24T21:34:34
+PHTI-HN-M-0004-1,Valid but hard,,0.4615384615384615,څوک په وړه نې,څوک په وړه شان خهي,../data/phti_valid_prepared/test/PHTI-HN-M-0004-1.png,2025-11-24T21:34:53
+PHTI-KT-M-0101-5,Valid but hard,,0.45,دا  په    ريګونو     په    ګردونو    پټه,دا په رېلونو په لردو لو پټه,../data/phti_valid_prepared/test/PHTI-KT-M-0101-5.png,2025-11-24T21:34:58
+PHTI-JB-F-0050-10,Valid but hard,label issue,0.4444444444444444,بغیر تلمیح سمجھ میں نہیں آسکتی۔ اور,ہوئے بغیہ تلیح سمبج میں نیست اسکی اعر,../data/phti_valid_prepared/test/PHTI-JB-F-0050-10.png,2025-11-24T21:35:08
+PHTI-HN-M-0028-2,Valid but hard,,0.44,ہر   یوہ   وعدہ  دا   ستا,هر يوه وعده دا ستا,../data/phti_valid_prepared/test/PHTI-HN-M-0028-2.png,2025-11-24T21:35:12
+PHTI-JT-F-0016-13,Valid but hard,,0.4375,مدد دیتی ہیں اور,مددديتی، پس اور.,../data/phti_valid_prepared/test/PHTI-JT-F-0016-13.png,2025-11-24T21:35:14
+PHTI-SP-M-0037-4,Wrong transcription,,0.4375,تل ئې بت وي شملې,تل ئې ملک وي پټکي,../data/phti_valid_prepared/test/PHTI-SP-M-0037-4.png,2025-11-24T21:35:31
+PHTI-HL-M-0029-16,Valid but hard,,0.4363636363636363,وار په وار ئې تر تېغ تېر کړ  د خــــــــورم تمــا ټــبر,وار په وارۍ ته تيخ تېه کړل ـ  د حورم تماټېر,../data/phti_valid_prepared/test/PHTI-HL-M-0029-16.png,2025-11-24T21:35:44
+PHTI-AW-F-0103-7,Segmentation error,,0.4347826086956521,يار کېمل خېل په خوئ کښې,سې پو خپل پهخوۍ کښې,../data/phti_valid_prepared/test/PHTI-AW-F-0103-7.png,2025-11-24T21:35:48
+PHTI-KT-M-0155-2,Valid but hard,,0.4333333333333333,شــــې به ختـــمـــه زمـا ګُله,شي به ختمه زما ګله,../data/phti_valid_prepared/test/PHTI-KT-M-0155-2.png,2025-11-24T21:35:53
+PHTI-AZ-M-0027-1,Wrong transcription,,0.4193548387096774,هغه ما چې ورته پلونه دي جوړ کړي,هغوعا ماته پښو کښې ولونه دي جوړ کړي,../data/phti_valid_prepared/test/PHTI-AZ-M-0027-1.png,2025-11-25T06:06:12
+PHTI-JT-F-0728-16,Valid but hard,,0.4117647058823529,د بازنامې دا قلمی,و باز نامې داسې,../data/phti_valid_prepared/test/PHTI-JT-F-0728-16.png,2025-11-25T06:06:26
+PHTI-JB-F-0126-6,Valid but hard,,0.4074074074074074,چې کسکر يې کړې  کسرى وه، چې,چې کسکله په کړے کسری وه چې مې,../data/phti_valid_prepared/test/PHTI-JB-F-0126-6.png,2025-11-25T06:06:32
+PHTI-SP-M-0053-3,Valid but hard,,0.4054054054054054,چاربېته                (زخمي شينواري),چاربېته (زخمي شينواري),../data/phti_valid_prepared/test/PHTI-SP-M-0053-3.png,2025-11-25T06:06:35
+PHTI-SI-F-0034-3,Valid but hard,,0.4,کړو ـ,کړو,../data/phti_valid_prepared/test/PHTI-SI-F-0034-3.png,2025-11-25T06:06:37
+PHTI-SI-F-0014-3,Valid but hard,,0.4,هســـــــې هم له حـــــــــده   تېره راياديږي,هسې هم له حده تېره راياديږي,../data/phti_valid_prepared/test/PHTI-SI-F-0014-3.png,2025-11-25T06:06:45
+PHTI-D5-F-0035-9,Wrong transcription,,0.4,ليلٰى مجنون قصې لولي,ليلي' مجنون قصې لولې ’وايي,../data/phti_valid_prepared/test/PHTI-D5-F-0035-9.png,2025-11-25T06:06:57
+PHTI-SP-M-0090-13,Valid but hard,,0.4,نظم            (عابد خان جنون),م  (عابد خان جنون),../data/phti_valid_prepared/test/PHTI-SP-M-0090-13.png,2025-11-25T06:07:05
+PHTI-KT-M-0203-5,Valid but hard,,0.391304347826087,په    کينه   د    هغو    سترګو    راته    ګوري,په کښنه د هغو سترګو راته ګوري,../data/phti_valid_prepared/test/PHTI-KT-M-0203-5.png,2025-11-25T06:07:17
+PHTI-SI-F-0088-7,Valid but hard,,0.3888888888888889,په سپاندو کښې لوګي لوګي باڼه به درله,په سياوندو کښې کولې ګولقېا په درنه,../data/phti_valid_prepared/test/PHTI-SI-F-0088-7.png,2025-11-25T06:07:36
+PHTI-KT-M-0120-8,Valid but hard,,0.3863636363636363,د ا   منم   چې   ستا    خبرې    مې    يادېږي,دا منم چې ستا خبرې مې يازېږي,../data/phti_valid_prepared/test/PHTI-KT-M-0120-8.png,2025-11-25T06:07:46
+PHTI-JT-F-0250-3,Valid but hard,,0.3846153846153846,دغو نكاتو د بازنامې ډېر پټ,د غونكانو د باز نامې د پرېت,../data/phti_valid_prepared/test/PHTI-JT-F-0250-3.png,2025-11-25T06:07:56
+PHTI-KT-M-0203-3,Valid but hard,,0.3829787234042553,دا   مې   زرۀ   د   يار   د   غم   سره   لوڅيږي,دا مې زړۀ د يار د غم سره نوڅيږي,../data/phti_valid_prepared/test/PHTI-KT-M-0203-3.png,2025-11-25T06:08:16
+PHTI-PL-F-0013-13,Valid but hard,,0.3823529411764705,نـــه رهررو شـــوې نـــــه رهبر ۲۷,نه رهررو شوې نه رهبر ۲۱۸,../data/phti_valid_prepared/test/PHTI-PL-F-0013-13.png,2025-11-25T06:08:22
+PHTI-SP-M-0058-7,Valid but hard,,0.38,وطن زمونږ جنت دے                  (عبېد الله عابد),وطن زمونږ جنت دے (عبيدالله عابد),../data/phti_valid_prepared/test/PHTI-SP-M-0058-7.png,2025-11-25T06:08:26
+PHTI-JB-F-0261-6,Valid but hard,,0.3793103448275862,بغاوت وکړو. قام د شاه شجاع نه,بغاوت وکړو ـ  قام د شام د شاه نجال نه,../data/phti_valid_prepared/test/PHTI-JB-F-0261-6.png,2025-11-25T06:08:38
+PHTI-SP-M-0060-2,Valid but hard,,0.375,زمونږ ډهارس امېد,شنزمونږ د مارس اميد,../data/phti_valid_prepared/test/PHTI-SP-M-0060-2.png,2025-11-25T06:08:40
+PHTI-JT-F-0843-1,Valid but hard,,0.375,څك چې بې,څوک چې بس,../data/phti_valid_prepared/test/PHTI-JT-F-0843-1.png,2025-11-25T06:08:42
+PHTI-AW-F-0068-4,Valid but hard,,0.3714285714285714,ټول   په    خپلو   لارو     زغلو	په,ټول په خپلو لارو رغلو په,../data/phti_valid_prepared/test/PHTI-AW-F-0068-4.png,2025-11-25T06:08:45
+PHTI-SI-F-0219-5,Valid but hard,,0.3666666666666666,مينې ، يارۍ، دوستۍ به کيږي سره,مينۍ پارې دوستۍ به کښې ګې سره,../data/phti_valid_prepared/test/PHTI-SI-F-0219-5.png,2025-11-25T06:08:53
